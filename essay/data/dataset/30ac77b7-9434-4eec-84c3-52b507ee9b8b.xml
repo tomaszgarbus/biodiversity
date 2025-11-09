@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="30ac77b7-9434-4eec-84c3-52b507ee9b8b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/qptlr7</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nlbif.nl/resource?r=zv-vwg-2004-slovenia</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nlbif.nl/ipt/resource?r=zv-vwg-2004-slovenia</alternateIdentifier>
+        <alternateIdentifier>30ac77b7-9434-4eec-84c3-52b507ee9b8b</alternateIdentifier>
+        <alternateIdentifier>14147</alternateIdentifier>
+    <title>Field Study Group of the Dutch Mammal Society (NL) - 2004 - Mammal Survey Rakitovec, Slovenia</title>
+    <creator>
+    <individualName>
+<givenName>Bart</givenName>          <surName>Noort</surName>
+    </individualName>
+<organizationName>Field Study Group of the Dutch Mammal Society</organizationName><positionName>Staff member of the Field Study Group</positionName>    <address>
+<deliveryPoint>P.O. Box 6531</deliveryPoint><city>Nijmegen</city><postalCode>NL-6503 GA</postalCode>    </address>
+<electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress><onlineUrl>http://www.zoogdiervereniging.nl/FieldStudyGroup</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Bart</givenName>          <surName>Noort</surName>
+    </individualName>
+<organizationName>Field Study Group of the Dutch Mammal Society</organizationName><positionName>Staff member of the Field Study Group</positionName>    <address>
+<deliveryPoint>P.O. Box 6531</deliveryPoint><city>Nijmegen</city><postalCode>NL-6503 GA</postalCode>    </address>
+<electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress><onlineUrl>http://www.zoogdiervereniging.nl/FieldStudyGroup</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Niels</givenName>          <surName>Raes</surName>
+    </individualName>
+<organizationName>NLBIF</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>PO Box 9517</deliveryPoint><city>Leiden</city><postalCode>NL-2300 RA</postalCode><country>NETHERLANDS</country>    </address>
+<phone>+31.71.7519600</phone><electronicMailAddress>nlbif@naturalis.nl</electronicMailAddress><onlineUrl>http://www.nlbif.nl</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4329-4892</userId>
+    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-04-14
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains the results of the yearly summer camp of the Field Study Group (Dutch Mammal Society), organized from July 28th to August 7th 2004 in Rakitovec, Slovenia. The mammals of Rakitovec and its surroundings were the main object of study, using various methods.
+
+Live traps and small batches of owl pellets were used to identify small mammals like shrews and mice. Data on bats was gathered with bat detectors and mistnets. Bat parasites were collected from all bats captured and identified afterwards. Other mammal species were observed visually. While recording mammals, attention was given to insects (butterflies, dragonflies and grasshoppers), amphibians, reptiles and birds as well. Locations were recorded with GPS.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Bats</keyword>
+              <keyword>Field Study Group</keyword>
+              <keyword>Mist net</keyword>
+              <keyword>Detector</keyword>
+              <keyword>Shrews</keyword>
+              <keyword>Mice</keyword>
+              <keyword>Mammals</keyword>
+              <keyword>Live trap</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.zoogdiervereniging.nl/sites/default/files/imce/nieuwesite/Werkgroepen/Veldwerkgroep/downloads/2004SLrakitovec.pdf</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Rakitovec, Slovenia</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>13.33</westBoundingCoordinate>
+                      <eastBoundingCoordinate>16.55</eastBoundingCoordinate>
+                      <northBoundingCoordinate>46.94</northBoundingCoordinate>
+                      <southBoundingCoordinate>45.35</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2004-07-26
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2004-08-08
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Mammals, Bats, Shrews, Mice</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>mammals</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Bart</givenName>          <surName>Noort</surName>
+    </individualName>
+<organizationName>Field Study Group of the Dutch Mammal Society</organizationName><positionName>Staff member of the Field Study Group</positionName>    <address>
+<deliveryPoint>P.O. Box 6531</deliveryPoint><city>Nijmegen</city><postalCode>NL-6503 GA</postalCode>    </address>
+<electronicMailAddress>veldwerkgroep@zoogdiervereniging.nl</electronicMailAddress><onlineUrl>http://www.zoogdiervereniging.nl/FieldStudyGroup</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>n/a</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>n/a</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Live traps and small batches of owl pellets were used to identify small mammals like shrews and mice. Data on bats was gathered with bat detectors and mistnets. Bat parasites were collected from all bats captured and identified afterwards. Other mammal species were observed visually. While recording mammals, attention was given to insects (butterflies, dragonflies and grasshoppers), amphibians, reptiles and birds as well. Locations were recorded with GPS.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Field Study Group of the Dutch Mammal Society (NL) – Mammal Survey Rakitovec, Slovenia, 2004</title>
+          <personnel>
+    <individualName>
+          <surName>n/a</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:16Z</dateStamp>
+      <citation>Noort B (2020). Field Study Group of the Dutch Mammal Society (NL) - 2004 - Mammal Survey Rakitovec, Slovenia. Version 20.4. Field Study Group of the Dutch Mammal Society. Occurrence dataset https://doi.org/10.15468/qptlr7 accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>http://ipt.nlbif.nl/logo.do?r=zv-vwg-2004-slovenia</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

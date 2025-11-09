@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="fb98e53c-add6-4870-b745-db11cbea753d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/nt52o2</alternateIdentifier>
+        <alternateIdentifier>fb98e53c-add6-4870-b745-db11cbea753d</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1262</alternateIdentifier>
+        <alternateIdentifier>3e30ca6b-4923-3ffd-840a-d8176cd2bc0c</alternateIdentifier>
+    <title>LERN Invasive Non-native Species Records</title>
+    <creator>
+<organizationName>Lancashire Environment Record Network</organizationName>    <address>
+<city>Preston</city><postalCode>PR1 0LD</postalCode>    </address>
+<phone>01772 537695</phone><electronicMailAddress>lern@lancashire.gov.uk</electronicMailAddress><onlineUrl>http://www.lancashire.gov.uk/lern.aspx</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Lancashire Environment Record Network</organizationName>    <address>
+<city>Preston</city><postalCode>PR1 0LD</postalCode>    </address>
+<phone>01772 537695</phone><electronicMailAddress>lern@lancashire.gov.uk</electronicMailAddress><onlineUrl>http://www.lancashire.gov.uk/lern.aspx</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-05-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Records of Invasive Non-native Species (INNS) held within the LERN database which have been marked as having been validated (within LERN proceedures). This is a subset of the &amp;#39;LERN Records&amp;#39; dataset to enable INNS records to be published at full resolution.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1262</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1901-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Collated results of surveys undertaken for various reasons including site-based surveys and species distribution mapping.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>LERN</surName>
+    </individualName>
+<electronicMailAddress>lern@lancashire.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Collated results of surveys undertaken for various reasons using various techniques.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>These data are a collation of field surveys undertaken by a variety of individuals and organizations and should not be regarded as having comprehensive geographic or taxonomic coverage.
+ Records have not been reassessed in light of recent taxonomic splits or aggregations. Data should therefore be checked against original sources before use in contentious circumstances.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:23Z</dateStamp>
+      <citation>Lancashire Environment Record Network (2018). LERN Invasive Non-native Species Records. Occurrence dataset https://doi.org/10.15468/nt52o2 accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/LeRN-Logo-500-100x55.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

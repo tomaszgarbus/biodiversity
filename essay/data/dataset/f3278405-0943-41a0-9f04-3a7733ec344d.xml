@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f3278405-0943-41a0-9f04-3a7733ec344d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15470/dijq3a</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.es/resource?r=ico</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.es/resource?r=ico</alternateIdentifier>
+        <alternateIdentifier>10.15468/vzhdvy</alternateIdentifier>
+        <alternateIdentifier>f3278405-0943-41a0-9f04-3a7733ec344d</alternateIdentifier>
+        <alternateIdentifier>http://www.gbif.es/ipt/resource?r=ico</alternateIdentifier>
+    <title>Data collected on citizen science web portal www.ornitho.cat</title>
+    <creator>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Anton</surName>
+    </individualName>
+<organizationName>Institut Català d&apos;Ornitologia (ICO)</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Nat-Museu de Ciències Naturals de Barcelona Natural History Museum of Barcelona Plaça Leonardo da Vinci 4-5</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>08019</postalCode><country>SPAIN</country>    </address>
+<phone>+34-932565991</phone><electronicMailAddress>anuari@ornitologia.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Anton</surName>
+    </individualName>
+<organizationName>Institut Català d&apos;Ornitologia (ICO)</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Nat-Museu de Ciències Naturals de Barcelona Natural History Museum of Barcelona Plaça Leonardo da Vinci 4-5</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>08019</postalCode><country>SPAIN</country>    </address>
+<phone>+34-932565991</phone><electronicMailAddress>anuari@ornitologia.org</electronicMailAddress><onlineUrl>http://www.ornitologia.org</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Anton</surName>
+    </individualName>
+<organizationName>Institut Català d&apos;Ornitologia (ICO)</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Nat-Museu de Ciències Naturals de Barcelona Natural History Museum of Barcelona Plaça Leonardo da Vinci 4-5</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>08019</postalCode><country>SPAIN</country>    </address>
+<phone>+34932565991</phone><electronicMailAddress>anuari@ornitologia.org</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Sergi</givenName>          <surName>Herrando</surName>
+    </individualName>
+<organizationName>Institut Català d&apos;Ornitologia (ICO)</organizationName><positionName>Research director</positionName>    <address>
+<deliveryPoint>Nat-Museu de Ciències Naturals de Barcelona Natural History Museum of Barcelona Plaça Leonardo da Vinci 4-5</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>08019</postalCode><country>SPAIN</country>    </address>
+<phone>+34932565991</phone><electronicMailAddress>ornitologia@ornitologia.org</electronicMailAddress><onlineUrl>http://www.ornitologia.org</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Collection of field observations shared by citizens. The observations are uploaded to GBIF at a resolution of 1x1 km, except for some species of conservation concern for which data are shown at 10x10 km resolution. Data refers to all vertebrates (except marine fishes), dragonflies, diurnal butterflies, crickets, grasshoppers, cicadas, saproxil coleopters, freshwater bivalves, decapods and orchids. 
+The dataset includes one record of every observed species in every UTM 1x1 km or 10x10 km, selected randomly from the global data registered in www.ornitho.cat</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Data provided in this collection is stored in website www.ornitho.cat. This website is free but if you will query the original data you must register in the portal and report at least one observation made in Catalonia. Then you can get single observation using the URL provided in associated media.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.ornitho.cat</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Catalonia (NE Spain)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-0.07</westBoundingCoordinate>
+                      <eastBoundingCoordinate>3.39</eastBoundingCoordinate>
+                      <northBoundingCoordinate>43.01</northBoundingCoordinate>
+                      <southBoundingCoordinate>40.41</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Field observation of animals submitted in www.ornitho.cat website</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Subphylum</taxonRankName>
+                        <taxonRankValue>Vertebrata</taxonRankValue>
+                          <commonName>Vertebrates</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Odonata</taxonRankValue>
+                          <commonName>Dragonflies</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lepidoptera</taxonRankValue>
+                          <commonName>Butterflies</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Decapoda</taxonRankValue>
+                          <commonName>Decapods</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Bivalvia</taxonRankValue>
+                          <commonName>Bivalves</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Superfamily</taxonRankName>
+                        <taxonRankValue>Cicadoidea</taxonRankValue>
+                          <commonName>Cicadas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Orthoptera</taxonRankValue>
+                          <commonName>Crickets and grasshoppers</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orchidaceae</taxonRankValue>
+                          <commonName>Orchids</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>coleoptera</taxonRankValue>
+                          <commonName>coleopter</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Anton</surName>
+    </individualName>
+<organizationName>Institut Català d&apos;Ornitologia (ICO)</organizationName><positionName>researcher</positionName>    <address>
+<deliveryPoint>Nat-Museu de Ciències Naturals de Barcelona Natural History Museum of Barcelona Plaça Leonardo da Vinci 4-5</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>08019</postalCode><country>SPAIN</country>    </address>
+<phone>+34932565991</phone><electronicMailAddress>anuari@ornitologia.org</electronicMailAddress><onlineUrl>http://www.ornitologia.org</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Marc</givenName>          <surName>Anton</surName>
+    </individualName>
+<organizationName>Institut Català d&apos;Ornitologia (ICO)</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Nat-Museu de Ciències Naturals de Barcelona Natural History Museum of Barcelona Plaça Leonardo da Vinci 4-5</deliveryPoint><city>Barcelona</city><administrativeArea>Barcelona</administrativeArea><postalCode>08019</postalCode><country>SPAIN</country>    </address>
+<phone>+34932565991</phone><electronicMailAddress>anuari@ornitologia.org</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:30Z</dateStamp>
+      <citation identifier="https://doi.org/10.15470/dijq3a">Anton M (2021). Data collected on citizen science web portal www.ornitho.cat. Version 2.21. ICO-Institut Català d&apos;Ornitologia (Catalan Ornithological Institute). Occurrence dataset https://doi.org/10.15470/dijq3a accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

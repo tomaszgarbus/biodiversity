@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="28efdec7-f62e-4b41-8dc7-cf39ff1d1de9"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/sn2oik</alternateIdentifier>
+        <alternateIdentifier>28efdec7-f62e-4b41-8dc7-cf39ff1d1de9</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1190</alternateIdentifier>
+        <alternateIdentifier>64a65709-dc80-392d-a40d-a6f98cb96390</alternateIdentifier>
+    <title>Scottish Beaver Trial incidental species records</title>
+    <creator>
+<organizationName>Scottish Beavers</organizationName>    <address>
+<deliveryPoint>Scottish Wildlife Trust</deliveryPoint><city>Harbourside House, 110 Commercial Street</city><administrativeArea>Edinburgh</administrativeArea><postalCode>EH6 6NF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>gdowse@scottishwildlifetrust.org.uk</electronicMailAddress><onlineUrl>http://www.scottishbeavers.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Scottish Beavers</organizationName>    <address>
+<deliveryPoint>Scottish Wildlife Trust</deliveryPoint><city>Harbourside House, 110 Commercial Street</city><administrativeArea>Edinburgh</administrativeArea><postalCode>EH6 6NF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>gdowse@scottishwildlifetrust.org.uk</electronicMailAddress><onlineUrl>http://www.scottishbeavers.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset comprises the data collected during the life of the Scottish Beaver trial, and only covered protected species or notable mammals. This data was supplied to SNH as the managers of the independent monitoring contracts, as part of the SBT partnership agreement, with the understanding it would be made available to the NBN at the end of the trial reintroduction period. Records in this dataset have undergone a level of verification, either using the rules provided by national recording schemes and societies available via the NBN Record Cleaner, or other experts, such as Vice County Recorders.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1190</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2010-06-03
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-03-16
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Incidental species records of protected species or notable mammals during the implementation of the Scottish Beaver Trial.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Gill</givenName>          <surName>Dowse</surName>
+    </individualName>
+<electronicMailAddress>gdowse@scottishwildlifetrust.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The data comprise incidental records during the fieldwork or by camera traps during the life of the Scottish Beaver Trial. Records in this dataset have undergone a level of verification, by either the NBN Record Cleaner or other experts.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The records included in this dataset are from camera traps or collected by the experts during the field work ans so is assumed to be of a high standard. This data has also been verified using the NBN Record Cleaner or other experts, such as Vice County Recorders.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:21Z</dateStamp>
+      <citation>Scottish Beavers (2017). Scottish Beaver Trial incidental species records. Occurrence dataset https://doi.org/10.15468/sn2oik accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/ScottishBeavers2017v1.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

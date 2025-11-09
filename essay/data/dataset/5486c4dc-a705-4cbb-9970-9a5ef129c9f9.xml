@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5486c4dc-a705-4cbb-9970-9a5ef129c9f9"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hnrgzz</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2287</alternateIdentifier>
+        <alternateIdentifier>5486c4dc-a705-4cbb-9970-9a5ef129c9f9</alternateIdentifier>
+        <alternateIdentifier>a6813693-9384-3241-b172-0b483e6192bd</alternateIdentifier>
+    <title>British mammal skins in the collections of World Museum Liverpool</title>
+    <creator>
+<organizationName>World Museum, National Museums Liverpool</organizationName>    <address>
+<deliveryPoint>William Brown Street</deliveryPoint><city>Liverpool</city><postalCode>L3 8EN</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>http://www.liverpoolmuseums.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>World Museum, National Museums Liverpool</organizationName>    <address>
+<deliveryPoint>William Brown Street</deliveryPoint><city>Liverpool</city><postalCode>L3 8EN</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>http://www.liverpoolmuseums.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-11-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Data extracted from specimens of native species British mammals in the collections of World Museum Liverpool, consisting mainly of specimens collected  in NW England from 1970 onwards</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr2287</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1830-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-05-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Tony</givenName>          <surName>Parker</surName>
+    </individualName>
+<positionName>editor</positionName><phone>1514784363</phone><electronicMailAddress>tony.parker@liverpoolmuseums.org.uk</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:16Z</dateStamp>
+      <citation>World Museum, National Museums Liverpool (2020). British mammal skins in the collections of World Museum Liverpool. Occurrence dataset https://doi.org/10.15468/hnrgzz accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/d0b02725-2a3c-498a-923f-1cc1f60a16a5.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

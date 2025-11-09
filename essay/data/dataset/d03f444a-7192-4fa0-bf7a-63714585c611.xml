@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d03f444a-7192-4fa0-bf7a-63714585c611"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pdop0k</alternateIdentifier>
+        <alternateIdentifier>d03f444a-7192-4fa0-bf7a-63714585c611</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr827</alternateIdentifier>
+        <alternateIdentifier>6af4ad77-7860-3887-8196-1c10f0b6cee0</alternateIdentifier>
+    <title>England Non Native Species records 1965 to 2017</title>
+    <creator>
+<organizationName>Environment Agency</organizationName><phone>03708 506 506</phone><electronicMailAddress>enquiries@environment-agency.gov.uk</electronicMailAddress><onlineUrl>https://www.gov.uk/government/organisations/environment-agency</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Environment Agency</organizationName><phone>03708 506 506</phone><electronicMailAddress>enquiries@environment-agency.gov.uk</electronicMailAddress><onlineUrl>https://www.gov.uk/government/organisations/environment-agency</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Non-native species records collected during Environment Agency monitoring activities. Primarily aquatic and riparian species. This set contains records from the BIOSYS database, representing invertebrate, plant and algal monitoring from marine and freshwater; adhoc records and those from River Habitat Survey and Fish monitoring.  Please help us to improve our species records by reporting any errors you find within this dataset to alice.hiley&amp;#64;environment-agency.gov.uk</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr827</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The records cover England only. There is a bias towards rivers and other sites where the Environment Agency carries out monitoring. The coverage is fairly even. The majority of records have 100m resolution or greater.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-5.711</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.747</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.788</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.993</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1965-08-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-02-16
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Monitoring of the aquatic environment by the Environment Agency and predecessor organisations to fulfil statutory objectives such as the Water Framework Directive. Non native species records have been collated into a single dataset to allow better understanding of distribution and spread.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Marina</givenName>          <surName>Flamank</surName>
+    </individualName>
+<electronicMailAddress>marina.flamank@environment-agency.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Non-native species present in a sample are recorded when they are of the target group, for example Signal Crayfish (Pacifastacus lenisculus) in a benthic invertebrate sample or Canadian pondweed (Elodea canadensis) in a plant survey. Other non-native species are recorded when seen at or around Environment Agency monitoring sites. Very few records are from non-native species specific monitoring.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records collected before 1990 are ad hoc and quality is specific to the record. More recent records are checked and surveyors are trained in the identification of non-native species. We are most confident in records from 2009 onwards. Data have been checked for gross spatial errors, but due to the large volume or records, there may be examples of incorrect grid references.  Please help us to improve our species records by reporting any errors you find within this dataset to alice.hiley@environment-agency.gov.uk</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:21Z</dateStamp>
+      <citation>Environment Agency (2017). England Non Native Species records 1965 to 2017. Occurrence dataset https://doi.org/10.15468/pdop0k accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

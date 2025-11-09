@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b5ae9525-5de3-438c-b4c0-3d3257f4bea2"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/lnhgrh</alternateIdentifier>
+        <alternateIdentifier>b5ae9525-5de3-438c-b4c0-3d3257f4bea2</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1252</alternateIdentifier>
+        <alternateIdentifier>a601da3b-46a5-3b4c-b33c-324f18d836d2</alternateIdentifier>
+    <title>Bringing Reedbeds to Life Water Vole and Mink Survey of five key reedbed sites in England in 2009, 2010</title>
+    <creator>
+<organizationName>Royal Society for the Protection of Birds</organizationName>    <address>
+<deliveryPoint>The Lodge</deliveryPoint><city>Potton Road, Sandy</city><administrativeArea>Bedfordshire</administrativeArea><postalCode>SG19 2DL</postalCode>    </address>
+<phone>01767 680551</phone><electronicMailAddress>Dataunit@rspb.org.uk</electronicMailAddress><onlineUrl>http://www.rspb.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Royal Society for the Protection of Birds</organizationName>    <address>
+<deliveryPoint>The Lodge</deliveryPoint><city>Potton Road, Sandy</city><administrativeArea>Bedfordshire</administrativeArea><postalCode>SG19 2DL</postalCode>    </address>
+<phone>01767 680551</phone><electronicMailAddress>Dataunit@rspb.org.uk</electronicMailAddress><onlineUrl>http://www.rspb.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Bringing Reedbeds to Life is an innovative programme of scientific research and habitat monitoring, coupled with practical habitat management advice and training.  It represents one of the largest co-ordinated programmes of such work on reedbed wetlands for over a decade.  The project aims to generate a better understanding of the requirements of a wider range of reedbed wildlife.  This enhanced understanding will be used to inform advice, training, management and future conservation strategies across England&amp;#39;s reedbeds. 
+ &lt;br /&gt;&lt;br /&gt;
+ Water voles were surveyed using two methods: water vole rafts within reedbeds and mink rafts in ditches. This is the first such systematic survey of water vole use of the internal parts of reedbeds as far as we are aware. In addition, mink records from mink rafts in ditches were analysed.  Water vole raft surveys were carried out at 3 key reedbed sites: RSPB Ham Wall NNR (Somerset), NE Stodmarsh NNR (Kent) and NWT Hickling Broad NNR (Norfolk).  Mink raft surveys were carried out at five sites, the additional two being Lincolnshire Wildlife Trust Far Ings NNR and National Trust Wicken Fen (Cambridgeshire).
+ &lt;br /&gt;&lt;br /&gt;
+ The main finding of the surveys was that water vole was present at the five reedbed sites despite the presence of mink also. Therefore reedbeds provide a habitat where the two species can coexist.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1252</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>It is recognised that this dataset is only from two years and that water vole and mink move around from year to year. &lt;br /&gt;
+ Bringing Reedbeds to Life Technical report with further method descriptions will be available after 31st March 2011 at 
+ &lt;a href=&quot;www.rspb.org.uk/ourwork/projects/details.aspx?id=tcm:9-210865&quot;&gt;www.rspb.org.uk/ourwork/projects/details.aspx?id=tcm:9-210865&quot;&lt;/a&gt;</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.789</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.63</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.711</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.112</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2009-05-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010-02-28
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The aim of the surveys was find if water vole and mink were present on the sites in 2009/2010.  To find which parts of the reedbed they were using and to relate the presence of water vole or mink sign to the surrounding habitat.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Conservation Data</givenName>          <surName>Management Unit</surName>
+    </individualName>
+<electronicMailAddress>dataunit@rspb.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Water vole raft survey methods: 21 water vole rafts were set out at each of the three key sites (Hickling Broad, Ham Wall and Stodmarsh), two weeks prior to the first checks in June 2009.  Rafts consisted of foam sandwiched between two pieces of ply measuring 48 x 30 cm with nuts and bolts, designed according to expert advice (T. Moorhouse pers. comm.).  Twine was used to attach the raft to the water trap pole.  Droppings or latrines of any mammal left on the raft were recorded.  Feeding signs (e.g. a small pile of chewed roots or stems) were also recorded. The top sides of the rafts were cleared of water vole sign whenever it was detected, to reset the rafts for the next monitoring period.  Habitat around the water vole rafts was surveyed in summer June/July 2009 as part of the invertebrate survey and in winter Jan/Feb 2010. 
+ &lt;br /&gt;&lt;br /&gt;
+ Mink raft methods: Mink raft surveys for water vole and mink sign in ditches were conducted at all five sites.  Mink rafts were built according to the Game and Wildlife Conservation Trust Mink Raft specifications, with a clay/sand mix tracking pad.  Eight rafts were placed at five reedbed reserves.    Rafts were placed where two or more watercourses join to increase chances of detecting mink.  Checks for mammal droppings or latrines were carried out fortnightly between April 2009 and October 2009 with an additional check in January 2010 at Ham Wall, Hickling Broad and Stodmarsh.  Water vole tracks and feeding signs on rafts were also recorded. Any water vole sign detected was cleared from the raft to reset the raft for the next monitoring session. A survey of the habitat around mink rafts was also carried out, focusing on dimensions of the water body and surrounding vegetation.
+ &lt;br /&gt;&lt;br /&gt;
+ Surveys were designed by Donna Harris in consultation with various mammal experts and carried out by RSPB staff and volunteers.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>These data have been gathered by trained field-workers and the data are of a high quality. These data have been mapped and checked for sensitivities and typographical/geographical errors.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:21Z</dateStamp>
+      <citation>Royal Society for the Protection of Birds (2017). Bringing Reedbeds to Life Water Vole and Mink Survey of five key reedbed sites in England in 2009, 2010. Occurrence dataset https://doi.org/10.15468/lnhgrh accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/rspblogo_2015_tcm9-390145.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

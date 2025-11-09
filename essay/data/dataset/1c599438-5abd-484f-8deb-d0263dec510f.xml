@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1c599438-5abd-484f-8deb-d0263dec510f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/nagz1b</alternateIdentifier>
+        <alternateIdentifier>1c599438-5abd-484f-8deb-d0263dec510f</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1370</alternateIdentifier>
+        <alternateIdentifier>987b4437-d5be-3b28-aa72-bfb6be9b987e</alternateIdentifier>
+    <title>AquaInvaders</title>
+    <creator>
+<organizationName>Natural Apptitude</organizationName>    <address>
+<deliveryPoint>12 St Thomas St</deliveryPoint><city>Bristol</city><postalCode>BS1 6JJ</postalCode>    </address>
+<electronicMailAddress>info@natural-apptitude.co.uk</electronicMailAddress><onlineUrl>https://www.natural-apptitude.co.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Natural Apptitude</organizationName>    <address>
+<deliveryPoint>12 St Thomas St</deliveryPoint><city>Bristol</city><postalCode>BS1 6JJ</postalCode>    </address>
+<electronicMailAddress>info@natural-apptitude.co.uk</electronicMailAddress><onlineUrl>https://www.natural-apptitude.co.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-11-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Short_description The AquaInvaders project aims to collect much needed data on freshwater aquatic invasive species around the UK. It is a unique partnership between the Environment Agency, Scottish Natural Heritage, The Scottish Environment Protection Agency, the University of Bristol, the British Sub Aqua Club and the Biological Records Centre. The species included in the dataset are:
+Topmouth gudgeon
+Black/brown bullhead
+Sunbleak
+Fathead minnow
+Bitterling
+Zander
+Wels catfish
+Sturgeon species
+Bighead carp
+Channel catfish
+Killer Shrimp
+Chinese Mitten Crab
+Zebra Mussel
+Quagga Mussel
+Signal Crayfish
+Red swamp crayfish
+Turkish crayfish
+Noble crayfish
+Spiny cheek crayfish
+Alpine Newt
+American Bullfrog
+Marsh Frog
+African Clawed Toad
+Red-eared Terrapin
+Mink</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1370</url>
+          </online>
+      </distribution>
+      <purpose>
+          <para>The main aim is to locate incidences of a number of high priority invasive, non-native freshwater aquatic animal species. A large number of our water bodies are affected by invasive, non-native species and in many areas they have brought with them significant problems for our indigenous wildlife. With your help we hope to build the most complete picture of where these creatures are and, where possible, take appropriate measures to prevent further spread.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Dave Kilbey</surName>
+    </individualName>
+<electronicMailAddress>dave.kilbey@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data is crowd-sourced via the AquaInvaders smartphone app and website. Records are verified by experts at the Environment Agency.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>High quality data set. All records are checked and verified by experts and most records are supported with photos (those without are checked with the recorder).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:20Z</dateStamp>
+      <citation>Nature Locator (2021). AquaInvaders. Occurrence dataset https://doi.org/10.15468/nagz1b accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NaturalApptitudelogo_color_white_1000px+%28002%29.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

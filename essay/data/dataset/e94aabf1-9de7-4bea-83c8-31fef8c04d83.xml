@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e94aabf1-9de7-4bea-83c8-31fef8c04d83"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/z7gvmz</alternateIdentifier>
+        <alternateIdentifier>e94aabf1-9de7-4bea-83c8-31fef8c04d83</alternateIdentifier>
+        <alternateIdentifier>https://gbif.univer.kharkov.ua/resource?r=mammalsatlas1</alternateIdentifier>
+    <title>Materials to the mammal atlas of Ukraine</title>
+    <creator>
+    <individualName>
+<givenName>Oksana</givenName>          <surName>Babiichuk</surName>
+    </individualName>
+<organizationName>DNZ &quot;Novovolynskyi CPTO&quot;</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>oksanababiich@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Volodymyr</givenName>          <surName>Batochenko</surName>
+    </individualName>
+<organizationName>Northern Podillia National Nature Park</organizationName><positionName>senior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>vydra2007@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Serhii</givenName>          <surName>Bushuiev</surName>
+    </individualName>
+<organizationName>Institute of Marine Biology of the NAS of Ukraine</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>O. L.</givenName>          <surName>Finogenov</surName>
+    </individualName>
+<organizationName>Odessa Center of the Southern Research Institute of Marine Fisheries and oceanography</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>jugniro@meta.ua</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Stanislav</givenName>          <surName>Viter</surName>
+    </individualName>
+<organizationName>Homilsha Woods National Nature Park</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Maksym</givenName>          <surName>Havryliuk</surName>
+    </individualName>
+<organizationName>Cherkasy Bohdan Khmelnytsky National University</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Viktoriia</givenName>          <surName>Holovko</surName>
+    </individualName>
+<organizationName>Luhansk Nature Reserve NAS of Ukraine</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Vadym</givenName>          <surName>Moroz</surName>
+    </individualName>
+<organizationName>Luhansk Nature Reserve NAS of Ukraine</organizationName><positionName>director</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Oleksii</givenName>          <surName>Dubovyk</surName>
+    </individualName>
+<organizationName>Ivan Franko National University of Lviv</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ye.M.</givenName>          <surName>Skubak</surName>
+    </individualName>
+    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Viktor</givenName>          <surName>Diakov</surName>
+    </individualName>
+<organizationName>&quot;Svyati Hory&quot; National Nature Park</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Olha</givenName>          <surName>Diakova</surName>
+    </individualName>
+<organizationName>&quot;Svyati Hory&quot; National Nature Park</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Liubov</givenName>          <surName>Ilminska</surName>
+    </individualName>
+<positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>V. P.</givenName>          <surName>Ilchuk</surName>
+    </individualName>
+<organizationName>West-Ukrainian Ornithological Society</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Serhii</givenName>          <surName>Koniakin</surName>
+    </individualName>
+<organizationName>Institute for evolutionary ecology NAS of Ukraine</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Liubov</givenName>          <surName>Hubar</surName>
+    </individualName>
+<organizationName>Institute for evolutionary ecology NAS of Ukraine</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ihor</givenName>          <surName>Dykyy</surName>
+    </individualName>
+<organizationName>Ivan Franko National University of Lviv</organizationName><positionName>assistant professor</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ihor</givenName>          <surName>Merzlikin</surName>
+    </individualName>
+<organizationName>Sumy State Pedagogical University named after AS Makarenko</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Alina</givenName>          <surName>Mishta</surName>
+    </individualName>
+<organizationName>I.I. Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine</organizationName><positionName>senior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>V.O.</givenName>          <surName>Novak</surName>
+    </individualName>
+<positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>V.V.</givenName>          <surName>Novak</surName>
+    </individualName>
+<positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mikhail</givenName>          <surName>Rusin</surName>
+    </individualName>
+<organizationName>Kyiv Zoo</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Zh.V.</givenName>          <surName>Storozhenko</surName>
+    </individualName>
+<organizationName>National park &quot;Khotynskyi&quot;</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mykhailo</givenName>          <surName>Drebet</surName>
+    </individualName>
+<organizationName>Podilski Tovtry National Nature Park</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mykhailo</givenName>          <surName>Khymyn</surName>
+    </individualName>
+<organizationName>Prypiat-Stokhid National Nature Park</organizationName><positionName>senior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Olesia</givenName>          <surName>Fryz-Duzhak</surName>
+    </individualName>
+<organizationName>Medvezhany Public School</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>A. O.</givenName>          <surName>Shevtsov</surName>
+    </individualName>
+<organizationName>Ukrainian Society for the Protection of Birds</organizationName><positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Yuzyk</surName>
+    </individualName>
+<organizationName>Cheremosh National Nature Park</organizationName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Natalia</givenName>          <surName>Brusentsova</surName>
+    </individualName>
+<organizationName>Sloboda National Nature Park, Ukrainian Nature Conservation Group</organizationName><positionName>head of the science department</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Denys</givenName>          <surName>Lazarev</surName>
+    </individualName>
+<organizationName>Luhansk Nature Reserve NAS of Ukraine</organizationName><positionName>engineer-researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Maria</givenName>          <surName>Martsiv</surName>
+    </individualName>
+<organizationName>Ivan Franko National University of Lviv</organizationName><positionName>PhD student</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Viktor</givenName>          <surName>Shelvinskyi</surName>
+    </individualName>
+<organizationName>State Museum of Natural History of the NAS of Ukraine</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>P. I.</givenName>          <surName>Miroshnyk</surName>
+    </individualName>
+<positionName>naturalist</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>PiterMir@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Yuliia</givenName>          <surName>Vasyljeva</surName>
+    </individualName>
+<organizationName>I.I. Schmalhausen Institute of Zoology of National Academy of Sciences of Ukraine</organizationName><positionName>PhD</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Oleh</givenName>          <surName>Nabolotnyi</surName>
+    </individualName>
+<organizationName>&quot;Kniazhyj lis&quot; project</organizationName><positionName>project leader</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>oleh.nabolotnyi@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Yevgeniia</givenName>          <surName>Ulyura</surName>
+    </individualName>
+<organizationName>National Museum of Natural History at the NAS of Ukraine</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mikhaylo</givenName>          <surName>Franchuk</surName>
+    </individualName>
+<organizationName>Rivnens&apos;kiy Nature Reserve</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Zoltan</givenName>          <surName>Barkaszi</surName>
+    </individualName>
+<organizationName>National Museum of Natural History at the NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>L. V.</givenName>          <surName>Bachuk</surName>
+    </individualName>
+<organizationName>Rivnens&apos;kiy Nature Reserve</organizationName><positionName>junior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Yehor</givenName>          <surName>Yatsiuk</surName>
+    </individualName>
+<organizationName>Homilsha Woods National Nature Park</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Yuliia</givenName>          <surName>Leshchenko</surName>
+    </individualName>
+<organizationName>Homilsha Woods National Nature Park</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>M.</givenName>          <surName>Mignini</surName>
+    </individualName>
+<positionName>naturalist</positionName>    <address>
+<country>ITALY</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Oleksandr</givenName>          <surName>Kyseliuk</surName>
+    </individualName>
+<organizationName>Carpathian National Nature Park</organizationName><positionName>Deputy director for research</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>L.</givenName>          <surName>Kontrimavičius</surName>
+    </individualName>
+<organizationName>Institute of Ecology, Nature Research Centre</organizationName><positionName>PhD</positionName>    <address>
+<country>LITHUANIA</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>V.</givenName>          <surName>Sventickas</surName>
+    </individualName>
+<organizationName>Institute of Ecology, Nature Research Centre</organizationName><positionName>PhD</positionName>    <address>
+<country>LITHUANIA</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Nadiia</givenName>          <surName>Antonets</surName>
+    </individualName>
+<organizationName>Dniprovsko Orilskyi Nature Reserve</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Vitalii</givenName>          <surName>Yarysh</surName>
+    </individualName>
+<organizationName>Karadag Nature Reserve</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oleksii</givenName>          <surName>Marushchak</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<phone>+380964882670</phone><electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9380-5593</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Oleksii</givenName>          <surName>Marushchak</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<phone>+380964882670</phone><electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9380-5593</userId>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset consists of records of mammalian species in Ukraine published in &amp;#34;Materials to the Mammal Atlas of Ukraine&amp;#34;: Material to the Mammal Atlas of Ukraine / Series: “Conservation Biology in Ukraine&amp;#34;. – Issue 20. – Kyiv, 2021. – 240 p.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Mammalia</keyword>
+              <keyword>mammals</keyword>
+              <keyword>finds</keyword>
+              <keyword>atlas</keyword>
+              <keyword>Ukraine</keyword>
+              <keyword>registration</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>points</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The dataset presents findings of mammals within the entire territory of Ukraine.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>22.061</westBoundingCoordinate>
+                      <eastBoundingCoordinate>40.166</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.429</northBoundingCoordinate>
+                      <southBoundingCoordinate>44.434</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1973
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The dataset consists of findings of Mammalia class.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mikhail</givenName>          <surName>Rusin</surName>
+    </individualName>
+<organizationName>Kyiv Zoo</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Preparation of research articles using unified template by authors</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data aggregation and preparation for publishing as paper book</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data cleaning and alignment to Darwin Core standard</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Occurrence data were obtained from 48 researchers from all over Ukraine in a form of their publications in the following literature resource: Material to the Mammal Atlas of Ukraine / Series: “Conservation Biology in Ukraine&quot;. – Issue 20. – Kyiv, 2021. – 240 p.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Data were collected, georeferenced, and organized by the authors of each articles on their own. Additional data cleaning and postprocessing were conducted by Oleksii Marushchak.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Authors of each particular article are fully responsible for the correctness of species identifications, information on organisms&apos; quantity and georeferencing. Sporadic issues in georeferencing, revealed during data cleaning, were corrected where it was possible, by Oleksii Marushchak.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="nlbif2018.2019.004">
+          <title>Mobilization of biodiversity data from Ukraine to GBIF</title>
+          <personnel>
+    <individualName>
+<givenName>Svetlana</givenName>          <surName>Miteva</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mikhail</givenName>          <surName>Rusin</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Dataset has been organized with the support of Project nlbif2018.2019.004 funded by NLBIF to The Habitat Foundation &quot;Mobilization of biodiversity data from Ukraine to GBIF&quot; https://www.nlbif.nl/mobilization-of-biodiversity-data-from-ukraine-to-gbif/</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:23Z</dateStamp>
+      <citation>Babiichuk O, Batochenko V, Bushuiev S, Finogenov O L, Viter S, Havryliuk M, Holovko V, Moroz V, Dubovyk O, Skubak Y, Diakov V, Diakova O, Ilminska L, Ilchuk V P, Koniakin S, Hubar L, Dykyy I, Merzlikin I, Mishta A, Novak V, Novak V, Rusin M, Storozhenko Z, Drebet M, Khymyn M, Fryz-Duzhak O, Shevtsov A O, Yuzyk D, Brusentsova N, Lazarev D, Martsiv M, Shelvinskyi V, Miroshnyk P I, Vasyljeva Y, Nabolotnyi O, Ulyura Y, Franchuk M, Barkaszi Z, Bachuk L V, Yatsiuk Y, Leshchenko Y, Mignini M, Kyseliuk O, Kontrimavičius L, Sventickas V, Antonets N, Yarysh V, Marushchak O (2022). Materials to the mammal atlas of Ukraine. Version 1.4. Ukrainian Nature Conservation Group (NGO). Occurrence dataset https://doi.org/10.15468/z7gvmz accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

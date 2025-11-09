@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3c3a7955-e23b-45f7-ab29-fe8bc5876585"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/p3ismw</alternateIdentifier>
+        <alternateIdentifier>3c3a7955-e23b-45f7-ab29-fe8bc5876585</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1299</alternateIdentifier>
+        <alternateIdentifier>d7b45d8a-6f72-31da-abfd-c078abac88c3</alternateIdentifier>
+    <title>Shire Group IDB species data 2004 to present</title>
+    <creator>
+<organizationName>Shire Group of Internal Drainage Boards</organizationName>    <address>
+<deliveryPoint>Espom House Chase Park</deliveryPoint><city>Redhouse Interchange</city><administrativeArea>Doncaster</administrativeArea><postalCode>DN6 7FE</postalCode>    </address>
+<phone>01302 33 77 98</phone><electronicMailAddress>info@shiregroup-idbs.gov.uk</electronicMailAddress><onlineUrl>https://www.shiregroup-idbs.gov.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Shire Group of Internal Drainage Boards</organizationName>    <address>
+<deliveryPoint>Espom House Chase Park</deliveryPoint><city>Redhouse Interchange</city><administrativeArea>Doncaster</administrativeArea><postalCode>DN6 7FE</postalCode>    </address>
+<phone>01302 33 77 98</phone><electronicMailAddress>info@shiregroup-idbs.gov.uk</electronicMailAddress><onlineUrl>https://www.shiregroup-idbs.gov.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Species records for IDB areas.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1299</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Dataset primarily covers parts of S Yorkshire and N Lincolnshire as well as parts of E Yorkshire and parts of the Yorkshire Dales. Parts of the Trent valley are also covered as well as areas around Stafford. All records are six figures.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.952</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.274</eastBoundingCoordinate>
+                      <northBoundingCoordinate>54.35</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.012</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1985-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010-03-25
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Data is collected by the IDBs to maintain an environmental database that can be queried in advance of any planned works to inform the engineers what surveys are required in advance of works and whether a licence from natural England is required. In addition data was collected when the Shire Group IDBs Phase 1 Surveyed their areas and as part of the BAP process. This data will now be provided as a logical extension to the production of BAPs by the boards in the Shire Group.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Alison Briggs</surName>
+    </individualName>
+<electronicMailAddress>alison.briggs@shiregroup-idbs.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data is captured from specific surveys (Phase 1 Habitat Surveys. NVC surveys, Water Vole Surveys and walkover surveys) as well as site visits within (and occasionally outwith) Shire Group IDB areas. All species data will be from direct observation in the main or field signs. All data is verified by technical review by another specialist ecologist in the in-house ecology team.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data has been captured by in-house ecology team and validated by different members of same team. Level of confidence in the robustness of the data is high and it is updated regularly.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:20Z</dateStamp>
+      <citation>Shire Group of Internal Drainage Boards (2017). Shire Group IDB species data 2004 to present. Occurrence dataset https://doi.org/10.15468/p3ismw accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

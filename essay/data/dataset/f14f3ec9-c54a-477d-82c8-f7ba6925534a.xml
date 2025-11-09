@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f14f3ec9-c54a-477d-82c8-f7ba6925534a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/r3xakd</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1628</alternateIdentifier>
+        <alternateIdentifier>f14f3ec9-c54a-477d-82c8-f7ba6925534a</alternateIdentifier>
+        <alternateIdentifier>5f9c51b9-7005-3090-bf90-b0e53cb23825</alternateIdentifier>
+    <title>UK Roadkill Records</title>
+    <creator>
+<organizationName>Project Splatter</organizationName>    <address>
+<deliveryPoint>Sir Martin Evans Building</deliveryPoint><city>Museum Avenue</city><administrativeArea>Cardiff</administrativeArea><postalCode>CF10 3AX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>projectsplatter@gmail.com</electronicMailAddress><onlineUrl>https://projectsplatter.co.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Project Splatter</organizationName>    <address>
+<deliveryPoint>Sir Martin Evans Building</deliveryPoint><city>Museum Avenue</city><administrativeArea>Cardiff</administrativeArea><postalCode>CF10 3AX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>projectsplatter@gmail.com</electronicMailAddress><onlineUrl>https://projectsplatter.co.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-04-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset is comprised of ad hoc records of animals seen dead on the road submitted primarily by members of the public (citizen scientists).</para>
+    </abstract>
+      <additionalInfo>
+          <para>Additional information about the Project, and links to social media pages, can be found at www.projectsplatter.co.uk . Project Splatter is also available to answer any questions about the database.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1628</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2010-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020-01-05
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The records were collected for the purposes of quantifying and mapping roadkill across the UK.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Project</givenName>          <surName>Splatter</surName>
+    </individualName>
+<electronicMailAddress>projectsplatter@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>As a citizen science project, the majority of records were submitted to Project Splatter by members of the public. Through a variety of sources, such as Twitter, Facebook, smartphone applications, and our website. Due to the nature of the project, records are ad-hoc in nature, and are presence-only.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>As the process of data submission is not automated, all records from the previous week are examined and locations checked at least once a week. If the species is not known, then members of the public have the opportunity to submit their record at a higher taxonomic level (for example genus or family).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:22Z</dateStamp>
+      <citation>Project Splatter (2020). UK Roadkill Records. Occurrence dataset https://doi.org/10.15468/r3xakd accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/projectsplatter_uklogo.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

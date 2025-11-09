@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3381b50b-9c29-4dce-b6d4-5101064636f7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/51xdys</alternateIdentifier>
+        <alternateIdentifier>3381b50b-9c29-4dce-b6d4-5101064636f7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1176</alternateIdentifier>
+        <alternateIdentifier>db02f20d-7d03-3603-9fb2-b688da0d0cc1</alternateIdentifier>
+    <title>Leicestershire Mammal Records to end of 2009</title>
+    <creator>
+<organizationName>Leicestershire and Rutland Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>County Hall</deliveryPoint><city>Glenfield</city><postalCode>LE3 8RA</postalCode>    </address>
+<phone>0116 3054108</phone><electronicMailAddress>LRERC@leics.gov.uk</electronicMailAddress><onlineUrl>https://www.leicestershire.gov.uk/environment-and-planning/planning/planning-and-ecology</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Leicestershire and Rutland Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>County Hall</deliveryPoint><city>Glenfield</city><postalCode>LE3 8RA</postalCode>    </address>
+<phone>0116 3054108</phone><electronicMailAddress>LRERC@leics.gov.uk</electronicMailAddress><onlineUrl>https://www.leicestershire.gov.uk/environment-and-planning/planning/planning-and-ecology</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-05-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This contains all records in Leicestershire for mammals held by LRERC - EXCLUDING protected species (bats, otter and water vole, for which separate datasets exist, and badger) collated from a variety of sources including public observations and casual records.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1176</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Leicestershire, mainly to 100m resolution.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.485</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.738</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.359</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.37</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1910-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2008-11-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+          <surName>Kirsty Gamble</surName>
+    </individualName>
+<electronicMailAddress>planningecology@leics.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <qualityControl>
+                <description>
+                    <para>This is not a comprehensive dataset. 
+ &lt;br /&gt;&lt;br /&gt;
+ Data from casual observations may not have been validated.  LRERC is currently in the process of checking and validating all data.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:19Z</dateStamp>
+      <citation>Leicestershire and Rutland Environmental Records Centre (2018). Leicestershire Mammal Records to end of 2009. Occurrence dataset https://doi.org/10.15468/51xdys accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Leics+and+rutland+compressed+logo.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

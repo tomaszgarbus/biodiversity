@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="aba10cb3-e79b-45f8-91a7-ef79d2133af9"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ealk6c</alternateIdentifier>
+        <alternateIdentifier>aba10cb3-e79b-45f8-91a7-ef79d2133af9</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr858</alternateIdentifier>
+        <alternateIdentifier>a16eca1d-f792-300e-ac89-132a6f672d94</alternateIdentifier>
+    <title>City of Edinburgh Natural Heritage Service - Ranger Ad-hoc records and sightings</title>
+    <creator>
+<organizationName>The Wildlife Information Centre</organizationName>    <address>
+<deliveryPoint>The Wildlife Information Centre, Caretakers Cottage, Vogrie House, Vogrie Country Park</deliveryPoint><city>Gorebridge</city><administrativeArea>Midlothian</administrativeArea><postalCode>EH23 4NU</postalCode>    </address>
+<phone>01875 825968</phone><electronicMailAddress>info@wildlifeinformation.co.uk</electronicMailAddress><onlineUrl>http://www.wildlifeinformation.co.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>The Wildlife Information Centre</organizationName>    <address>
+<deliveryPoint>The Wildlife Information Centre, Caretakers Cottage, Vogrie House, Vogrie Country Park</deliveryPoint><city>Gorebridge</city><administrativeArea>Midlothian</administrativeArea><postalCode>EH23 4NU</postalCode>    </address>
+<phone>01875 825968</phone><electronicMailAddress>info@wildlifeinformation.co.uk</electronicMailAddress><onlineUrl>http://www.wildlifeinformation.co.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-03-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>These are ad-hoc sightings by the old Pentland Hills Ranger Service.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr858</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Pentland Hills Regional Park.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.52</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-3.2</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.872</northBoundingCoordinate>
+                      <southBoundingCoordinate>55.781</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1995-07-21
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2011-01-29
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Casual recording.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Claudia</givenName>          <surName>Caporusso</surName>
+    </individualName>
+<electronicMailAddress>admin@wildlifeinformation.co.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Field observations</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Recorders are PHRP rangers.  Confidence is high.  Records have been checked with NBN Record Cleaner.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:15Z</dateStamp>
+      <citation>The Wildlife Information Centre (2021). City of Edinburgh Natural Heritage Service - Ranger Ad-hoc records and sightings. Occurrence dataset https://doi.org/10.15468/ealk6c accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/TWIC_Logo.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

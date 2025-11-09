@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8898e990-9d39-4871-9e6e-d1031c19e24b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/mjw32e</alternateIdentifier>
+        <alternateIdentifier>8898e990-9d39-4871-9e6e-d1031c19e24b</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2451</alternateIdentifier>
+        <alternateIdentifier>1a87c7de-36ff-3f94-82f3-ac17af91e4bf</alternateIdentifier>
+    <title>Mammal Mapper App Sighting Records</title>
+    <creator>
+<organizationName>The Mammal Society</organizationName>    <address>
+<deliveryPoint>Black Horse Cottage, 33 Milton Abbas</deliveryPoint><city>Blandford Forum</city><administrativeArea>Dorset</administrativeArea><postalCode>DT11 0BL</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>02380 010981</phone><electronicMailAddress>atlas@themammalsociety.org</electronicMailAddress><onlineUrl>http://www.mammal.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>The Mammal Society</organizationName>    <address>
+<deliveryPoint>Black Horse Cottage, 33 Milton Abbas</deliveryPoint><city>Blandford Forum</city><administrativeArea>Dorset</administrativeArea><postalCode>DT11 0BL</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>02380 010981</phone><electronicMailAddress>atlas@themammalsociety.org</electronicMailAddress><onlineUrl>http://www.mammal.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-11-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>iRecord verified public sightings of mammals collected using a free smart phone recording app - Mammal Mapper. This dataset contains records of all terrestrial mammals from across the UK, collected primarily by members of the public using the free Mammal Mapper smart phone app. Records include both presence only sightings and survey effort associted sightings. Survey effort (stored separately) is recorded by using the phone&amp;#39;s inbuilt GPS to store the track taken by the observer, providing distance travelled and time spent looking for and recording mammals.
+Further information about the Mammal Mapper App can be found - https://www.mammal.org.uk/volunteering/mammal-mapper/</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr2451</url>
+          </online>
+      </distribution>
+      <purpose>
+          <para>Mammals in Britain are critically under recorded and information on the abundance, distribution and conservation status of many species is serously lacking. The Mammal Mapper App was developed so that survey effort and associated sightings, along with presence only sightings, could be recorded. The additional information of survey effort conducted by members of the public can be used to glean where people are recording mammals. Information that can be used to calculate relative and absolute abundance using citizen science data.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Derek</givenName>          <surName>Crawley</surName>
+    </individualName>
+<electronicMailAddress>atlas@themammalsociety.org</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data are collected through a smart phone recording App - Mammal Mapper https://www.mammal.org.uk/volunteering/mammal-mapper/ and is stored on Coreo, a secure online database. Data are then passed to the Indicia data warehouse, hosted by the Biological Records Centre for verification by experienced mammal experts using the iRecord system.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The iRecord system has NBN record cleaner rules incorporated within it. In addition, the scheme operates further checks for outlying records (based on species, location and date). The route by which data arrives for verification in iRecord is from Coreo a secure online database, and comes from recorders with a wide range of experience, but the same verification process is applied to all data and the scheme believes that the dataset provided to NBN is of high quality.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:23Z</dateStamp>
+      <citation>The Mammal Society (2021). Mammal Mapper App Sighting Records. Occurrence dataset https://doi.org/10.15468/mjw32e accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/logo_1%29.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

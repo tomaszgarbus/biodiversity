@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="edf03db8-68cf-48ac-a545-15f89c88e113"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/39vba0</alternateIdentifier>
+        <alternateIdentifier>edf03db8-68cf-48ac-a545-15f89c88e113</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr353</alternateIdentifier>
+        <alternateIdentifier>c1b709a4-bb39-32ea-9eb2-c4cabbb88ea6</alternateIdentifier>
+        <alternateIdentifier>1885</alternateIdentifier>
+    <title>The BCT/MTUK Bats &amp; Roadside Mammals Survey</title>
+    <creator>
+<organizationName>Bat Conservation Trust</organizationName>    <address>
+<deliveryPoint>Quadrant House</deliveryPoint><city>250 Kennington Lane</city><administrativeArea>London</administrativeArea><postalCode>SE11 5RD</postalCode>    </address>
+<phone>0345 1300 228</phone><electronicMailAddress>enquiries@bats.org.uk</electronicMailAddress><onlineUrl>http://www.bats.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Bat Conservation Trust</organizationName>    <address>
+<deliveryPoint>Quadrant House</deliveryPoint><city>250 Kennington Lane</city><administrativeArea>London</administrativeArea><postalCode>SE11 5RD</postalCode>    </address>
+<phone>0345 1300 228</phone><electronicMailAddress>enquiries@bats.org.uk</electronicMailAddress><onlineUrl>http://www.bats.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The distribution of bats and other mammals along roads in selected areas of England, Wales and Scotland.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr353</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The distribution of records is biased toward those groups who were able to participate in the survey: 2005: Avon, Cardiff &amp; the Vale of Glamorgan, Central Scotland, Clyde, Dorset, Hampshire, Isle of Wight, Kent, North Ceredigion, and Warwickshire. 2006: Essex, Durham, South Lancashire, Isle of Man, Devon, Cardiff &amp; The Vale of Glamorgan/Bridgend, Central Scotland, Clyde, Dorset, Hampshire, Isle of Wight, Kent, North Ceredigion and Warwickshire. 2007: Avon, Birmingham and Black Country, Cornwall, Central Scotland, Dundee, Clyde, North Ceredigion, Exe, Hampshire, Isle of Wight, Essex, Kent, Warwickshire, South Lancashire, Durham and the Isle of Man. Survey effort varied between groups so that different groups surveyed different numbers of transects.  The records are accurate to six-figure grid references.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-5.438</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.372</eastBoundingCoordinate>
+                      <northBoundingCoordinate>56.504</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.082</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2005-05-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2008-09-28
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+<electronicMailAddress>enquiries@bats.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Time expansion (x10) bat detectors were attached to the rear passenger window of a car moving at 15 mph. The detector was set to sample 320ms of ultrasound every 3.52s. 25-30 mile routes were driven from May to September in 2005 and 2006. Survey routes were selected within pre-defined 15 km squares survey blocks. Surveys began 45 minutes after sunset. Bat calls were analysed by volunteers with some cross-validation or checking of records taking place by the project coordinator. Other visually observed mammals were recorded along the transects.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Surveys were carried out within selected 15km square survey blocks in different counties in Britain. The survey routes were selected by participating volunteers. Bat echolocation calls were analysed by a volunteers, approximately 50% of which were trained by the project coordinator. The remainder were already experienced in sonogram analysis. Some of the records of rarer species were checked by the project coordinator. The dataset has been checked using NBN Record Cleaner.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:17Z</dateStamp>
+      <citation>Bat Conservation Trust (2017). The BCT/MTUK Bats &amp; Roadside Mammals Survey. Occurrence dataset https://doi.org/10.15468/39vba0 accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataResource/BCT+Logo+Purple.png</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

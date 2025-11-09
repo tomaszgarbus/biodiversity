@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6867ae37-74b8-43e7-805d-5dac0a6d447e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/r2kvnz</alternateIdentifier>
+        <alternateIdentifier>https://danbif.au.dk/ipt/resource?r=atlasofdanishmammals</alternateIdentifier>
+        <alternateIdentifier>6867ae37-74b8-43e7-805d-5dac0a6d447e</alternateIdentifier>
+        <alternateIdentifier>http://danbif.au.dk/ipt/resource?r=atlasofdanishmammals</alternateIdentifier>
+    <title>Atlas of Danish Mammals</title>
+    <creator>
+    <individualName>
+<givenName>Hans J.</givenName>          <surName>Baagøe</surName>
+    </individualName>
+    <address>
+<country>DENMARK</country>    </address>
+<electronicMailAddress>hjbaagoe@snm.ku.dk</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Thomas</givenName>          <surName>Secher Jensen</surName>
+    </individualName>
+    <address>
+<country>DENMARK</country>    </address>
+<electronicMailAddress>tsj@nathist.dk</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Isabel</givenName>          <surName>Calabuig</surName>
+    </individualName>
+<organizationName>Danish Biodiversity Information Facility</organizationName><positionName>Node manager &amp; data curator</positionName>    <address>
+<country>DENMARK</country>    </address>
+<electronicMailAddress>icalabuig@snm.ku.dk</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-02-20
+      </pubDate>
+    <language>DANISH</language>
+    <abstract>
+        <para>Dataset based on nationwide atlas survey in 10x10 km grid cells, of the 88 mammal species occurring in Denmark. Results and maps from the Atlas survey originally were published in 2007 as a book work by Gyldendal, in collaboration with the natural History Museum in Aarhus and the Zoological Museum (Natural History Museum of Denmark).
+The book was edited by lic.scient Hans J. Baagøe (Natural History Museum of Denmark) and lic.scient Thomas Secher Jensen (Natural history Museum Aarhus) with contributions from more than 20 scientific writers. More than 4000 volunteers contributed to the survey with recordings of mammals from all over Denmark and surrounding seas.
+The atlas project and book received generous funding from the Aage V. Jensens Foundations. The current dataset was created through thorough quality control and normalisation of data in the database originally created for the survey. This latest work was made possible through the generous funding from the Aage V. Jensen Nature Foundation.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Mammalia</keyword>
+              <keyword>Atlas survey</keyword>
+              <keyword>Denmark</keyword>
+              <keyword>Mammals</keyword>
+              <keyword>Citizen Science</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://danbif.dk/se-eksempler/dansk-pattedyratlas/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Denmark DK</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>7.2</westBoundingCoordinate>
+                      <eastBoundingCoordinate>15.4</eastBoundingCoordinate>
+                      <northBoundingCoordinate>57.9</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.5</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Mammalia Mammals</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mammals</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Aksel Bo</givenName>          <surName>Madsen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Anders Højgård</givenName>          <surName>Petersen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Birger</givenName>          <surName>Jensen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Bjarne</givenName>          <surName>Søgaard</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Carl Christian</givenName>          <surName>Kinze</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Hans J.</givenName>          <surName>Baagøe</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Helle</givenName>          <surName>Vilhelmsen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Janne</givenName>          <surName>Aaris-Sørensen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Julie Dahl</givenName>          <surName>Møller</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Jens</givenName>          <surName>Lodal</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Johs.</givenName>          <surName>Erritzøe</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Kim</givenName>          <surName>Aaris-Sørensen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Marianne</givenName>          <surName>Ujvári</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Morten</givenName>          <surName>Elmeros</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Mette</givenName>          <surName>Hammershøj</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Nanna Ryssel</givenName>          <surName>Ramsgaard</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Poul</givenName>          <surName>Hald-Mortensen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Sussie</givenName>          <surName>Pagh</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Svend</givenName>          <surName>Tougaard</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Tommy</givenName>          <surName>Asferg</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Tine Sussi</givenName>          <surName>Hansen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Tine Stausholm</givenName>          <surName>Christiansen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Thomas Secher</givenName>          <surName>Jensen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Vicki</givenName>          <surName>Sørensen</surName>
+    </individualName>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Jesper</givenName>          <surName>Bladt</surName>
+    </individualName>
+<organizationName>Aarhus University, Denmark</organizationName>    <address>
+<deliveryPoint>Grenaavej</deliveryPoint><city>Roende, Denmark</city><postalCode>DK-8660</postalCode><country>DENMARK</country>    </address>
+<phone>87158883</phone><electronicMailAddress>jb@bios.au.dk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:30Z</dateStamp>
+      <citation>Baagøe H J, Secher Jensen T, Calabuig I (2020). Atlas of Danish Mammals. Version 1.3. Danish Biodiversity Information Facility. Occurrence dataset https://doi.org/10.15468/r2kvnz accessed via GBIF.org on 2022-02-16.</citation>
+              <bibliography>
+      <citation identifier="ISBN : 9788702055061">H. J. Baagøe &amp; T. S. Jensen, Editors (2007): Dansk Pattedyratlas, 392 pages, Gyldendal, Denmark</citation>
+              </bibliography>
+              <resourceLogoUrl>https://danbif.au.dk/ipt/logo.do?r=atlasofdanishmammals</resourceLogoUrl>
+              <formationPeriod>2000-2003, but for some species supplemented with data from 1973-current</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0aa2d11f-1e65-43ec-a579-3129cefa194b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/m4x2wj</alternateIdentifier>
+        <alternateIdentifier>0aa2d11f-1e65-43ec-a579-3129cefa194b</alternateIdentifier>
+        <alternateIdentifier>https://gbif.univer.kharkov.ua/resource?r=mishta_mammals_polissia</alternateIdentifier>
+    <title>Mammals of Ukrainian Polissia region</title>
+    <creator>
+    <individualName>
+<givenName>Alina</givenName>          <surName>Mishta</surName>
+    </individualName>
+<organizationName>Department of Animal Monitoring and Conservation, Schmalhausen Institute of Zoology</organizationName><positionName>senior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>amishta@izan.kiev.ua</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alina</givenName>          <surName>Mishta</surName>
+    </individualName>
+<organizationName>Department of Animal Monitoring and Conservation, Schmalhausen Institute of Zoology</organizationName><positionName>senior researcher</positionName><electronicMailAddress>amishta@izan.kiev.ua</electronicMailAddress>      <userId directory="https://orcid.org/">0000-0001-5347-972X</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Oleksii</givenName>          <surName>Marushchak</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology</organizationName><positionName>junior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9380-5593</userId>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2021-01-25
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The database includes records of mammals from the Polissia region of Ukraine (Volyn, Rivne, Zhytomyr, Kyiv, Chernihiv and Sumy provinces) from scientific publications (1998-2018).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Polissia region of Ukraine (Volyn, Rivne, Zhytomyr, Kyiv, Chernihiv and Sumy provinces).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>23.555</westBoundingCoordinate>
+                      <eastBoundingCoordinate>35.684</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.369</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.175</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1998
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Information on occurence of 78 Mammalian species is provided.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alina</givenName>          <surName>Mishta</surName>
+    </individualName>
+<organizationName>Department of Animal Monitoring and Conservation, Schmalhausen Institute of Zoology</organizationName><positionName>senior researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>amishta@izan.kiev.ua</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Highlighting mammal species occurrences in Polissia region of Ukraine from scientific publications (1998-2018)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Georeferencing using Google maps</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Occurrence of animals was confirmed either by personal observations and studies or by using data that is already published in literature.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Scientific publications devoted to mammalian fauna were used as a source of the dataset. In the course of original investigations live-trapping, pitfall trapping, camera trapping, analysis of owl pellets and direct observations were conducted.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Authors of the dataset are fully responsible for the correctness of species identifications, information on organisms&apos; quantity and georeferencing.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="nlbif2018.2019.004">
+          <title>Mobilization of biodiversity data from Ukraine to GBIF</title>
+          <personnel>
+    <individualName>
+<givenName>Svetlana</givenName>          <surName>Miteva</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mikhail</givenName>          <surName>Rusin</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Dataset has been organized with the support of Project nlbif2018.2019.004 funded by NLBIF to The Habitat Foundation &quot;Mobilization of biodiversity data from Ukraine to GBIF&quot;</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:19Z</dateStamp>
+      <citation>Mishta A (2021). Mammals of Ukrainian Polissia region. Version 1.1. I. I. Schmalhausen Institute of Zoology. Occurrence dataset https://doi.org/10.15468/m4x2wj accessed via GBIF.org on 2022-02-16.</citation>
+              <bibliography>
+      <citation>Башта А.-Т., Химин М., Мішта А. В. Матеріали до живлення сірої сови Strix aluco в околицях оз. Біле (НПП «Прип’ять-Стохід») // Науковий Вісник національного природного парку “Прип’ять-Стохід”. — Луцьк: Ініціал, 2012.— С. 3-10.</citation>
+      <citation>Весельський М. Ф. До екології живлення сови сірої на Житомирщині / Плотик. Інформаційні матеріали західноукраїнського орнітологічного товариства. Вип. 11. - Дрогобич: Музей Дрогобичина, 2005 - С.47-50.</citation>
+      <citation>Гаврись Г. Г., Кузьменко Ю. В., Мішта А. В., Коцержинська І. М. Фауна хребетних тварин національного природного парку Деснянсько-Старогутський / кол. монографія під заг. ред. Гаврися Г. Г. - Суми ВАТ “Сумська обласна друкарня”: Козацький вал, 2007. – 121 с.</citation>
+      <citation>Гащак С. П. Позвоночные животные Чернобыльской зоны (Чернобыльского Радиационно-экологического биосферного заповедника), включенные в Красную книгу Украины (2009 год) / Проблеми Чернобильської зони відчуження. Вип. 18. Славутич, 2018. – С. 5-54.</citation>
+      <citation>Гащак С. П., Бунтова О. Г., Залісський О. О. Фауна хребетних тварин зони відчуження України. – Славутич-Чорнобиль: 2000. – 86 с.</citation>
+      <citation>Гащак С.П., Бунтова Е.Г., Руденская Г.А., Чижевский И.В. Особенности видового состава насекомоядных и грызунов Чернобыльской зоны отчуждениям // Вестник зоологии. – 2000. – 34 (6). – С. 51-56.</citation>
+      <citation>Гащак С. П., Вишневський Д.О., Заліський О. О. 2006. Фауна хребетних тварин Чорнобильської зони відчуження (Україна). - Славутич, 2006. – C. 10-70.</citation>
+      <citation>Гащак С. П., Влащенко А. С., Наглов А.В. Результаты изучения фауны и радиоактивного загрязнения рукокрылых Чернобыльской зоны отчуждения в 2007-2009 гг// Проблеми Чорнобильської зони відчуження. - 2009, 9. – С. 102-124.</citation>
+      <citation>Дикий І., Средобольська Є. Рідкісні і мало чисельні види ссавців Шацького національного природного парку . / Раритетна фауна та її охорона. – Луганськ, 2008. – С. 102-106.</citation>
+      <citation>Жила С. М., Зеніна І. М. Хребетні Поліського заповідника. / Поліському природному заповіднику - 30 років. Збірник наукових праць, вип. 1. – 1999. – С.62-71.</citation>
+      <citation>Зайцева Г.Ю., Гнатина О.С. Трофічні зв’язки сови вухатої (Asio otus L.) та дрібних гризунів ( Rodentia ) на території Шацького поозер’я // Науковий вісник Волинського національного університету імені Лесі Українки, 2009. – № 2. – С. 217-221.</citation>
+      <citation>Зайцева Г., Гнатина О. Трофічні зв&apos;язки сови сірої ( Strix aluco L.) з мікромамаліями на території Чернігівського Полісся / Г. Зайцева, О. Гнатина // Вісн. Львів. ун-ту. Сер. біол. - 2010. – вип. 54. -С. 132-137.</citation>
+      <citation>Зеніна І. М. Мелкие млекопитающие Полесского природного заповедника / Поліському природному заповіднику - 30 років. Збірник наукових праць, вип. 1. – 1999. – С.74-78.</citation>
+      <citation>Клєстов М. Л., Гаврись Г.Г., Кузьменко Ю.В., Новік В. В. Нарис фауни хребетних тварин проектованого національного природного парку Деснянсько-Старогутський // Матеріали наук.-практ. семінару &quot;Актуальні проблеми створення Деснянсько-Старогутського національного природного парку та шляхи їх вирішення &quot;. - Київ,1998. - С. 93-102.</citation>
+      <citation>Кузьменко Ю. В., Мішта А. В. Живлення сича волохатого та сови бородатої на півночі України // Збірник праць Зоологічного музею. - 2014, № 45. - С. 65-69.</citation>
+      <citation>Кузьменко Ю. В., Мішта А. В., Франчук М. В., Комарницький І. В. Особливості живлення сови бородатої Strix nebulosa в Поліському та Рівненському природних заповідниках // Troglodytes. - 2015.- вип. 5-6. - С.90-96.</citation>
+      <citation>Мішта А. В. Різноманіття теріофауни Мезинського національного природного парку : результати попереднього обстеження // Матеріали науково-практичної конференції «Природно-екологічний та історико-археологічний потенціал Мезинської округи: минуле, сучасне та перспективи розбудови», Чернігів-Мезин 16-18 вересня 2015 р. – С. 101-105.</citation>
+      <citation>Раритети біоти Шацького національного природного парку (поширення, оселища, загрози та збереження). — Світязь, 2014. — 111 с.</citation>
+      <citation>Средобольська Є. Б., Дикий І. В., Мисюк В. О. Теріофауна Шацького національного природного парку // Ученые записки Таврического национального университета им. В. И. Вернадского. – 2004. – Т. 17 (56). – С. 134-143.</citation>
+      <citation>Химин М. 2004.Список фауни хребетних / Біорізноманіття Цуманської пущі та питання його збереження. Кол.мон. Київ:Фітосоціологічний центр, 2004. – 136 с.</citation>
+      <citation>Химин М.В. Фауна хребетних Vertebrata Рівненського природного заповідника // Природа Західного Полісся та прилеглих територій: збірник наукових праць. — № 3. — Луцьк: РВВ &quot;Вежа&quot; ВДУ, 2006. — С. 305-335.</citation>
+      <citation>Химин М.В. Фауна хребетних Vertebrata Черемського природного заповідника // Природа Західного Полісся та прилеглих територій : зб. наук. праць / ред. Ф.В. Зузук. — Луцьк: Вежа, 2006. — № 3. — С. 289-305.</citation>
+      <citation>Химин М.В. Фауна хребетних Vertebrata природних заповідників та національних природних парків Волинського Полісся // Природа Західного Полісся та прилеглих територій: збірник наукових праць. — 2007. — № 4. — Луцьк: РВВ &quot;Вежа&quot; ВДУ — С. 185-192.</citation>
+      <citation>Химин М. В., Химин Л. І. Хребетні тварини природних заповідників та національних природних парків у межах Західного Полісся // Збереження та відтворення біорізноманіття природно-заповідних територій: матеріали міжнародної науково-практичної конференції присвяченої 10-річчю Рівненського природного заповідника. — Рівне: ВАТ &quot;Рівненська друкарня&quot;, 2009. — С. 607-615.</citation>
+      <citation>Химин М. В., Клєстов М. Л., Башта А.-Т. В., Берест З. Л.,Плющ І. Г. Національний природний парк &quot;Прип&apos;ять-Стохід&quot;. Тваринний світ: монографія. — К.: Фітосоціоцентр, 2010. — 170 c.</citation>
+      <citation>Шешурак П. Н. Перспективы изучения териофауны на территории проектируемых на Черниговщине национальных парков // Ученые записки Таврического национального университета им. В. И. Вернадского. – 2004. – Т. 17 (56), № 2. – С. 130-133.</citation>
+      <citation>Mishta A., Kuzmenko Yu., Kobzar L. The Diversity of Small Terrestrial Mammals in Polissky Nature Reserve // Abstracts of the 4th International Symposium on EuroAsian Biodiversity (SEAB2018). 3-6 July, 2018. Kyiv. — P.410.</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

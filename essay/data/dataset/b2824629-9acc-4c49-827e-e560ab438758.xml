@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b2824629-9acc-4c49-827e-e560ab438758"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/80plzs</alternateIdentifier>
+        <alternateIdentifier>https://ipt.nina.no/resource?r=seapop_dw_sisteobs_vinter_nina</alternateIdentifier>
+        <alternateIdentifier>b2824629-9acc-4c49-827e-e560ab438758</alternateIdentifier>
+        <alternateIdentifier>http://data.nina.no:8080/ipt/resource?r=seapop_dw_sisteobs_vinter_nina</alternateIdentifier>
+    <title>SEAPOP - Last observation per locality in winter season</title>
+    <creator>
+    <individualName>
+<givenName>Geir Helge</givenName>          <surName>Systad</surName>
+    </individualName>
+<positionName>Researcher I</positionName>    <address>
+<country>NORWAY</country>    </address>
+<electronicMailAddress>geir.systad@nina.no</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Roald</givenName>          <surName>Vang</surName>
+    </individualName>
+<electronicMailAddress>rv@nina.no</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Observations of seabirds in SEAPOP, the long-term monitoring and mapping programme for Norwegian seabirds. Last observation per locality shows the last recorded number of seabirds on the sites during winter season.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>seabirds</keyword>
+              <keyword>seapop</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.seapop.no</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Norway</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>4.524</westBoundingCoordinate>
+                      <eastBoundingCoordinate>31.174</eastBoundingCoordinate>
+                      <northBoundingCoordinate>71.195</northBoundingCoordinate>
+                      <southBoundingCoordinate>57.976</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Seabirds</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Birds</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para>New data is added regularly</para>
+          </description>
+          <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Geir Helge</givenName>          <surName>Systad</surName>
+    </individualName>
+<positionName>Researcher I</positionName>    <address>
+<country>NORWAY</country>    </address>
+<electronicMailAddress>geir.systad@nina.no</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:18Z</dateStamp>
+      <citation>Systad G H, Vang R (2022). SEAPOP - Last observation per locality in winter season. Version 1.53. Norwegian Institute for Nature Research. Occurrence dataset https://doi.org/10.15468/80plzs accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://www.nina.no/images/seapop.jpg</resourceLogoUrl>
+              <formationPeriod>1972-current</formationPeriod>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

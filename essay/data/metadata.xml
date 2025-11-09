@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.9jztbu"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0144519-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.9jztbu</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    &quot;TaxonKey is Mustela vison Schreber, 1777&quot;,
+    &quot;Geometry POLYGON((-14.45801 34.45313, 41.61621 34.45313, 41.61621 68.4668, -14.45801 68.4668, -14.45801 34.45313))&quot;,
+    &quot;HasCoordinate is true&quot;,
+    &quot;HasGeospatialIssue is false&quot;,
+    &quot;Year 2000-2021&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Borders Backyard Biodiversity
+1 records from Herpetofauna and other animals registered within Rzhyshchiv city amalgamated territorieal community (CATC) (Kyiv region) in 2021
+1 records from Museu Darder de Banyoles
+1 records from Données Biodiversité Raffinerie de Donges
+1 records from Données opportunistes faune
+1 records from Regroupement de données d&apos;espèces exotiques
+1 records from Line transect censuses of breeding birds
+1 records from City of Edinburgh Natural Heritage Service - Ranger Ad-hoc records and sightings
+1 records from Données naturalistes de Jean-Valentin DOURTHE
+1 records from INSDC Sequences
+1 records from Fife Nature Records Centre combined dataset 2018/19
+1 records from Données naturalistes de Damien Combrisson
+1 records from David Dodds Associates Ltd - Species Records
+1 records from Données naturalistes de David JIMENEZ
+1 records from Merseyside BioBank (unverified)
+1 records from Données opportunistes
+1 records from Expansion zone survey of pine marten (Martes martes) distribution in Scotland, 2012-2013
+1 records from Species within North Ayrshire from 1984 - Present
+1 records from Données naturalistes de Laurent CORNILLE
+1 records from Field Study Group of the Dutch Mammal Society (NL) - 2004 - Mammal Survey Rakitovec, Slovenia
+1 records from Lund Museum of Zoology (MZLU)
+1 records from Données naturalistes de DE LACOSTE Nathalie
+1 records from Données opportunistes
+1 records from Données naturalistes de SWIFT Olivier
+1 records from British mammal skins in the collections of World Museum Liverpool
+1 records from RSPB Lochwinnoch incidental species records
+1 records from iRecord Surveys
+1 records from Invasive Non-Native Species, Outer Hebrides
+1 records from Données naturalistes de BRULARD Jean-François
+1 records from Museu de Ciències Naturals de Barcelona: MCNB-Tissue
+1 records from Ben Eighe NNR invertebrate records compiled from SNH files
+2 records from East Ayrshire Species Database
+2 records from Community Foundation for Ireland Records
+2 records from Merseyside BioBank Active Naturalists (verified)
+2 records from Données Faune du Parc national des Pyrénées
+2 records from TWIC Biodiversity Field Trip Data (1995-present)
+2 records from Waterbird counts, Luomus dataset
+2 records from Inventaires faune
+2 records from Saison 2013/2014 de piégeage en Gironde
+2 records from NRW Regional Data: South East Wales Non-sensitive species
+2 records from Données mammifères Midi-Pyrénées enregistrées dans BazNat - Lot 2
+2 records from The BCT/MTUK Bats &amp; Roadside Mammals Survey
+2 records from RNF - Données de l&apos;association Vivarmor Nature
+2 records from International Barcode of Life project (iBOL)
+2 records from Observations naturalistes de mammifères en Nord-Isère. Lo Parvi
+2 records from Northern Ireland Environment Agency (NIEA) Collated Species Records
+2 records from iNaturalist records from Northern Ireland
+2 records from Données ONF faune-flore-fonge
+2 records from Données d&apos;occurrence Espèces issues de la base Natura 2000 : espèces d&apos;intérêt communautaire et autres espèces remarquables renseignées dans les FSD
+2 records from GEO-Hauptveranstaltung in &quot;Wildtierland&quot;
+2 records from Museu de Ciències Naturals de Barcelona: MCNB-Cord
+2 records from Données naturalistes de Julien BIRARD
+3 records from Inventaire de la faune réalisé par Jérôme Fouert
+3 records from SEAPOP - Last observation per locality in winter season
+3 records from Field Study Group of the Dutch Mammal Society (NL) - 2007 - Mammal Survey Estonia
+3 records from Données des réserves naturelles nationales gérées par la Ligue pour la protection des oiseaux (LPO)
+3 records from Observations.be - Non-native species occurrences in Wallonia, Belgium
+4 records from Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Verified data
+4 records from Long term data from the Hanko Bird Observatory (Halias data)
+4 records from VieKas LIFE project invasive species observations
+4 records from NHMO Mammal collection
+4 records from Radnorshire Wildlife Trust records held by BIS
+4 records from RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas
+4 records from Données acquises dans le cadre de l&apos;activité du bureau d&apos;étude BIOTOPE (1994 - 2013)
+5 records from Roadkill
+5 records from RNF - Données de la Fédération des Réserves Catalanes
+5 records from Mammals of Ukrainian Polissia region
+6 records from Swedish Bird Survey: Fixed routes (Standardrutterna)
+6 records from Data from Defra Family Organisations supplied to Staffordshire Ecological Record
+6 records from Faunal Inventory of Morysin Nature Reserve
+6 records from Biodiversity4all Research-Grade Observations
+6 records from City of Edinburgh Natural Heritage Service - Harperrig Otter Survey
+8 records from Animals of Polissya Nature Reserve
+8 records from Leicestershire Mammal Records to end of 2009
+8 records from Mammal records for Europe via the iMammalia app
+9 records from Leicestershire and Rutland Environmental Records Centre records 2015-2019
+9 records from DIBA-Parc Natural del Montseny
+9 records from NHMD Mammalogy Collection
+10 records from Fife Nature Records Centre combined dataset
+10 records from Observations occasionnelles Parc national des Pyrénées
+10 records from Sheffield and Rotherham Wildlife Trust - Records
+10 records from Données d&apos;occurrences Espèces issues de l&apos;inventaire des ZNIEFF
+10 records from All taxa records for Leicestershire and Rutland
+12 records from Species recordings from the Danish National portal Arter.dk
+13 records from Ireland&apos;s BioBlitz
+14 records from Argyll Biological Records Dataset
+15 records from Mammalia (Luomus)
+15 records from Mammals on map of Ukraine. Materials of the First Ukrainian Mammal Mapping Conference
+15 records from AquaInvaders
+15 records from Shire Group IDB species data 2004 to present
+16 records from Commissioned surveys and staff surveys and reports for Scottish Wildlife Trust reserves - Verified data
+16 records from Leicestershire and Rutland Environmental Records Centre records 2010-2014
+17 records from River Biologists&apos; Database (EPA)
+17 records from Staffordshire Wildlife Trust Nature Reserves Inventory
+17 records from The Danish Environmental Portal, species and habitats-database &quot;Danmarks Miljøportals Naturdatabase&quot;
+18 records from Swedish Bird Survey: Swedish coastal bird monitoring programme (Nationella kustfågelövervakningen)
+18 records from Regroupement de données mammifères (hors chiroptères) récoltées sur la période de 2002-2014 par Cistude Nature
+19 records from Monitoring scheme of birds and mammals that are visiting bird feeders during winter
+19 records from Montgomeryshire Wildlife Trust records held by BIS
+20 records from Scottish Beaver Trial incidental species records
+21 records from Saisons 2007 à 2013 de piégeage en Gironde
+22 records from National Trust for Scotland Species Records
+24 records from Löydös Open Invasive Species Observations
+26 records from Löydös Open Finnish Observation Database
+27 records from CEDaR Online Recording
+27 records from Invasive Alien Species in Denmark
+29 records from Living with Mammals survey
+29 records from Leicestershire and Rutland Invasive Non-Native Species
+29 records from National Trust Species Records
+30 records from NRW Regional Data: North Wales
+30 records from Natural Resources Wales Regional Data : Mid-Wales
+30 records from Bringing Reedbeds to Life Water Vole and Mink Survey of five key reedbed sites in England in 2009, 2010
+32 records from England Non Native Species records 1965 to 2017
+33 records from Estonian Naturalists’ Society
+36 records from Liste des espèces de la faune sauvage de la base de données naturalistes Faune-France 2017.
+36 records from Leicestershire and Rutland Environmental Records Centre records 2000-2009
+39 records from Mammal records for Dumfries and Galloway
+40 records from BioFokus
+42 records from Norwegian Biodiversity Information Centre - Other datasets
+43 records from Winter Bird Census
+43 records from Estonian Nature Observations Database
+43 records from Données Mammifères Midi-Pyrénées enregistrées dans BazNat - Lot 1
+44 records from North Merseyside Local Species Data (DEFRA Grant 23169)
+46 records from Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+46 records from Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups
+47 records from Records of otters from Site Condition Monitoring in Scotland 2011-2012
+48 records from BRERC Notable Species records within the last 10 years
+51 records from Liste des espèces de la faune sauvage de la base de données naturalistes Faune-France 2018.
+57 records from UK Roadkill Records
+60 records from Saison 2013/2014 de piégeage en Pyrénées-Atlantiques
+60 records from Merseyside BioBank (verified)
+62 records from Miscellaneous records held by BIS
+66 records from Données d&apos;espèces exotiques piégées
+70 records from LERN Records
+70 records from Glasgow Museums BRC: Mammals
+71 records from LERN Invasive Non-native Species Records
+77 records from National Invasive Species Database
+78 records from Waarnemingen.be - Non-native animal occurrences in Flanders and the Brussels Capital Region, Belgium
+85 records from INNS Data: All Taxa (West Wales)
+114 records from Mammal Mapper App Sighting Records
+119 records from Cumbria Non Native Invasive Species
+120 records from Shropshire Ecological Data Network database
+147 records from Materials to the mammal atlas of Ukraine
+157 records from Lajitietokeskus/FinBIF - Notebook, general observations
+172 records from National Water Vole Database &amp; Mapping Project (Scotland data), 2008
+183 records from Distribution of American mink in Karelia
+190 records from Banco de Datos de la Biodiversidad de la Comunitat Valenciana
+228 records from Invasive Species and Pests
+231 records from SER Species-based Surveys
+235 records from Invasive Non-Native Species
+239 records from Environment Agency Rare and Protected Species Records
+243 records from Observation.org, Nature data from around the World
+248 records from Data collected on citizen science web portal www.ornitho.cat
+250 records from naturgucker
+257 records from BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+316 records from Hatikka.fi observations
+332 records from Atlas of Danish Mammals
+405 records from INNS Data: All Taxa (South East Wales)
+424 records from HBRG Vertebrates (not Badger) Dataset
+435 records from INNS records held by BIS in Powys and Brecon Beacons National Park
+537 records from Atlas of Mammals in Ireland 2010-2015
+547 records from Records of Invasive Non Native Species held on the Cofnod database
+585 records from Suffolk Biodiversity Information Service (SBIS) Dataset
+616 records from Ministerio de Medio Ambiente, y Medio Rural y Marino. Dirección General de Medio Natural y Política Forestal. Inventario Nacional de Biodiversidad 2007, Mamíferos
+633 records from Derbyshire Invasive Non-Native Species (INNS) 1900 - 2014
+1053 records from NBIS Records to December 2016
+1080 records from National Mammal Atlas Project, online recording
+1230 records from EDP Foz Tua Large Mammals (camera -trapping) - Ecological Monitoring Program  [2011-2017]
+1407 records from DOF - Observations from the Danish Ornithological Society
+1739 records from North East Scotland Terrestrial Mammals 1900-2017 (excluding squirrels, wild cats and marine mammals)
+3688 records from Norwegian Species Observation Service
+5741 records from Artportalen (Swedish Species Observation System)</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:31Z</dateStamp>
+      <citation identifier="10.15468/dl.9jztbu">GBIF Occurrence Download 10.15468/dl.9jztbu</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0144519-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ad68d258-1e57-47b2-8643-1e627caf4f56"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/qgxb2f</alternateIdentifier>
+        <alternateIdentifier>ad68d258-1e57-47b2-8643-1e627caf4f56</alternateIdentifier>
+        <alternateIdentifier>https://gbif.univer.kharkov.ua/resource?r=ppzkobzar1</alternateIdentifier>
+    <title>Animals of Polissya Nature Reserve</title>
+    <creator>
+    <individualName>
+<givenName>Lina</givenName>          <surName>Kobzar</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>lina_kobzar@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8199-4072</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Marina</givenName>          <surName>Kirichenko-Babko</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>senior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<electronicMailAddress>kirichenko14@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-6234-2896</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Oleksandra</givenName>          <surName>Shevchenko</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<electronicMailAddress>ollglen@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-9456</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Serhiy</givenName>          <surName>Zhyla</surName>
+    </individualName>
+<organizationName>Chernobyl Radiation and Ecological Biosphere Reserve</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Volodymyr</givenName>          <surName>Androsovych</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>game warden</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Vasyl</givenName>          <surName>Bovkun</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>game warden</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Volodymyr</givenName>          <surName>Dvorak</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>game warden</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mykola</givenName>          <surName>Moroz</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>forest ranger</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Oleh</givenName>          <surName>Panasevych</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>game warden</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Snihur</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>game warden</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Anatolii</givenName>          <surName>Torhonskyi</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>game warden</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Leonid</givenName>          <surName>Zenkovets</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>game warden</positionName>    <address>
+<country>UKRAINE</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Lina</givenName>          <surName>Kobzar</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>lina_kobzar@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8199-4072</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Oleksandra</givenName>          <surName>Shevchenko</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<electronicMailAddress>ollglen@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-9456</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Oleksii</givenName>          <surName>Marushchak</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><administrativeArea>N</administrativeArea><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<phone>+380964882670</phone><electronicMailAddress>ecopelobates@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-9380-5593</userId>
+    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2022-02-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The data base includes reports of findings of mammals, birds, reptiles, and fish of the area of Polissya Nature Reserve (Selezivske, Kopyschanske and Perganske forestries), in the protected area of the Nature Reserve and in the neighborhood.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Zhytomyr region</keyword>
+              <keyword>Polissya Nature Reserve</keyword>
+              <keyword>animals</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Zhytomyr region, Ukraine</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>27.191</westBoundingCoordinate>
+                      <eastBoundingCoordinate>29.74</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.659</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.575</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2001
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Registration points of animals are shown within the published dataset.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinopterygii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Arthropoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Insecta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Arachnida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coleoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Carabidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subclass</taxonRankName>
+                        <taxonRankValue>Acari</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Suborder</taxonRankName>
+                        <taxonRankValue>Oribatida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Lina</givenName>          <surName>Kobzar</surName>
+    </individualName>
+<organizationName>Polissya Nature Reserve</organizationName><positionName>researcher</positionName>    <address>
+<country>UKRAINE</country>    </address>
+<electronicMailAddress>lina_kobzar@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8199-4072</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Marina</givenName>          <surName>Kirichenko-Babko</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>senior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<electronicMailAddress>kirichenko14@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-6234-2896</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Oleksandra</givenName>          <surName>Shevchenko</surName>
+    </individualName>
+<organizationName>I. I. Schmalhausen Institute of Zoology NAS of Ukraine</organizationName><positionName>junior researcher</positionName>    <address>
+<deliveryPoint>Vul. B. Khmelnytskogo, 15</deliveryPoint><city>Kyiv</city><postalCode>01030</postalCode><country>UKRAINE</country>    </address>
+<electronicMailAddress>ollglen@ukr.net</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-6472-9456</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Findings of mammals, birds, reptiles and fish were carried out by foresters of the Reserve during the entire specified time interval. Foresters collected data during forest protection trips on routes (bypasses) that run throughout the reserve. Mostly these outings took place in winter, spring and autumn. The work was carried out at the request and with the support of the director of the Reserve, Zhyla S. M.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data on mites (Acari, Oribatida) were collected by Shevchenko O. S. and Kobzar L. I. in the area of Selezivske and Kopyschanske forestries in 16.07.2012 and 04-05.07.2016.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Data on insects (Coleoptera, Carabidae) were collected by Kobzar L. I.  in the area of Selezivske forestry in May to October, 2011-2012 and in August 2014 and 2015.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mites (Acari, Oribatida) were extracted by Shevchenko O. S. in Berlese funnels into 70% ethanol solution and mounted on permanent slides in Hoyer&apos;s liquid. The beetles (Coleoptera, Carabidae) were collected by Kobzar L. I. in soil traps, dried or fixed in ethanol. The beetles were determined by Kirichenko-Babko M. B.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The data presented in dataset was collected on the territory of Poissya Nature Reserve by the staff of the reserve, foresters and professional scientists.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>For the study of mites (Acari, Oribatida) Shevchenko O. S. and Kobzar L. I. took samples at two research sites in Kopyschanske forestry (10 samples of litter and soil each) and at five research sites in Selezivske forestry (litter samples). To study beetles (Coleoptera, Carabidae) Kobzar L. I. used soil traps (pitfall traps) on 11 test sites.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Authors of the dataset are fully responsible for the correctness of species identifications, information on organisms&apos; quantity and georeferencing. Minor issues in organizing of the dataset were corrected by Oleksii Marushchak.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="nlbif2018.2019.004">
+          <title>Mobilization of biodiversity data from Ukraine to GBIF</title>
+          <personnel>
+    <individualName>
+<givenName>Svetlana</givenName>          <surName>Miteva</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mikhail</givenName>          <surName>Rusin</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Dataset has been organized with the support of Project nlbif2018.2019.004 funded by NLBIF to The Habitat Foundation &quot;Mobilization of biodiversity data from Ukraine to GBIF&quot; https://www.nlbif.nl/mobilization-of-biodiversity-data-from-ukraine-to-gbif/</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:19Z</dateStamp>
+      <citation>Kobzar L, Kirichenko-Babko M, Shevchenko O, Zhyla S, Androsovych V, Bovkun V, Dvorak V, Moroz M, Panasevych O, Snihur I, Torhonskyi A, Zenkovets L (2022). Animals of Polissya Nature Reserve. Version 1.1. Ukrainian Nature Conservation Group (NGO). Occurrence dataset https://doi.org/10.15468/qgxb2f accessed via GBIF.org on 2022-02-16.</citation>
+              <bibliography>
+      <citation>Oleksandra Shevchenko, Lina Kobzar. To the oribatid mite diversity of Polessky Nature reserve, Ukraine. SEAB 2017. The 3rd International Symposium on EuroAsian Biodiversity. Abstract book. – Minsk, 2017 – P. 684.</citation>
+      <citation>Шевченко О. С., Кобзар Л. І. Перші відомості про грунтових орибатид (Acari, Oribatida) Поліського природного заповідника I (IV) міжнародна науково-практична конференція «Проблеми сучасної ентомології» (Ужгород, 15-17 вересня 2016 р.). Тези доповідей. Українська ентомофауністика. 2016 р.</citation>
+      <citation>Kirichenko-Babko M. B., Kobzar L. I., Danylkiv J. M., Lagod G., Franus M. Spatial Distribution of the Forest Carabid Species (Coleoptera, Carabidae) in Woodlands of the Protected and Urban Areas (Ukraine). Vestnik Zoologii, 53(2): 89–106, 2019.</citation>
+      <citation>Кириченко М.Б., Кобзар Л.І. Туруни (Coleoptera, Carabidae) лісових масивів Поліського природного заповідника. Природа Полісся: Дослідження та охорона. Матеріали міжнародної науково-практичної конференції, присвяченої 15-річчю Рівненського природного заповідника та 10-річчю Рамсарського угіддя «Торфово-болотний масив Переброди» (м. Сарни, 3-5 липня 2014 року) / ред. Журавчак Р. О. – Рівне : Овід, 2014. – С. 490-498.</citation>
+              </bibliography>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="852348b9-453f-4aa2-a9db-69f9cda6fc77"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jfymio</alternateIdentifier>
+        <alternateIdentifier>852348b9-453f-4aa2-a9db-69f9cda6fc77</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr496</alternateIdentifier>
+        <alternateIdentifier>2f654fcb-1a41-3999-90ce-d7e1cdbc9c17</alternateIdentifier>
+    <title>Borders Backyard Biodiversity</title>
+    <creator>
+<organizationName>The Wildlife Information Centre</organizationName>    <address>
+<deliveryPoint>The Wildlife Information Centre, Caretakers Cottage, Vogrie House, Vogrie Country Park</deliveryPoint><city>Gorebridge</city><administrativeArea>Midlothian</administrativeArea><postalCode>EH23 4NU</postalCode>    </address>
+<phone>01875 825968</phone><electronicMailAddress>info@wildlifeinformation.co.uk</electronicMailAddress><onlineUrl>http://www.wildlifeinformation.co.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>The Wildlife Information Centre</organizationName>    <address>
+<deliveryPoint>The Wildlife Information Centre, Caretakers Cottage, Vogrie House, Vogrie Country Park</deliveryPoint><city>Gorebridge</city><administrativeArea>Midlothian</administrativeArea><postalCode>EH23 4NU</postalCode>    </address>
+<phone>01875 825968</phone><electronicMailAddress>info@wildlifeinformation.co.uk</electronicMailAddress><onlineUrl>http://www.wildlifeinformation.co.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-05-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset comprises faunal records from a a^??local patcha^?? survey run by the Scottish Borders Biological Records Centre titled Borders Backyard Biodiversity. A list of 61 species of birds, mammals, amphibians and butterflies likely to be seen in the surveyora^??s garden or local patch was provided, with the option of recording additional species.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr496</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Most sites (and records) are from within the Scottish Borders Unitary Authority boundary, though some lie in Northumberland. The data contained within this set are taken from a total of over 130 sites from right around the Scottish Borders (and one or two from neighbouring districts). Not surprisingly, there are more records from the major settlements, and the more heavily populated Central Borders corridor along the Tweed. Records mostly relate to central grid references of the house or locality.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.357</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.607</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.878</northBoundingCoordinate>
+                      <southBoundingCoordinate>55.335</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1997-11-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010-05-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Claudia</givenName>          <surName>Caporusso</surName>
+    </individualName>
+<electronicMailAddress>admin@wildlifeinformation.co.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>All data were recorded as field observations on a survey form. Recorders were asked to indicate the frequency of sightings within the time period against each species on the check list. A short identification guide was supplied with the survey form. Data have subsequently been digitised by SBBRC using Recorder software.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Although records of any scarcer species have been checked wherever possible (usually by phoning the respondent), several of the surveyors were inexperienced, and it is possible that some errors have been made in identification. Where a record is unlikely, but we have not been in a position to verify this on site, this information has been added to the comments field.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:15Z</dateStamp>
+      <citation>The Wildlife Information Centre (2018). Borders Backyard Biodiversity. Occurrence dataset https://doi.org/10.15468/jfymio accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/TWIC_Logo.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

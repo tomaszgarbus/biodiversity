@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  7 OCT 2025 19:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  9 NOV 2025 19:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,7 +335,7 @@ Underfull \hbox (badness 1062) in paragraph at lines 196--196
 []\OT1/cmr/bx/n/12 Impacts on bio-di-ver-sity due to plastic-
  []
 
-)
+) (./content/lecture7.tex)
 
 
 
@@ -348,10 +348,10 @@ L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3552 strings out of 475287
- 54362 string characters out of 5770290
- 463508 words of memory out of 5000000
- 26364 multiletter control sequences out of 15000+600000
+ 3560 strings out of 475287
+ 54554 string characters out of 5770290
+ 463499 words of memory out of 5000000
+ 26369 multiletter control sequences out of 15000+600000
  563787 words of font info for 56 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  57i,8n,65p,517b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -365,7 +365,7 @@ t/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (7 pages, 11054722 bytes).
+Output written on main.pdf (7 pages, 11054754 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

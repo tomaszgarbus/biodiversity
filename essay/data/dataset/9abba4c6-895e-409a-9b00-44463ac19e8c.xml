@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9abba4c6-895e-409a-9b00-44463ac19e8c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/klm9xm</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pt/ipt/resource?r=edp_tua_mammals_photos_pme</alternateIdentifier>
+    <title>EDP Foz Tua Large Mammals (camera -trapping) - Ecological Monitoring Program  [2011-2017]</title>
+    <creator>
+    <individualName>
+<givenName>Hugo</givenName>          <surName>Costa</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>General Coordinator 1</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>info@bioinsight.pt</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Nuno</givenName>          <surName>Salgueiro</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>General Coordinator 2</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>info@bioinsight.pt</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Ana Teresa</givenName>          <surName>Marques</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Scientific Coordinator 1</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>info@bioinsight.pt</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Helena</givenName>          <surName>Coelho</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Scientific Coordinator 2</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>info@bioinsight.pt</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Catarina</givenName>          <surName>Ferreira</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Emanuel</givenName>          <surName>Ribeiro</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>José</givenName>          <surName>Oliveira</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Pedro</givenName>          <surName>Pereira</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Rui</givenName>          <surName>Silva</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mário</givenName>          <surName>Ferreira</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ramalho</surName>
+    </individualName>
+<organizationName>BioInsight</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Dárcio</givenName>          <surName>Sousa</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Marco</givenName>          <surName>Caetano</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Tiago</givenName>          <surName>Neves</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Joana</givenName>          <surName>Magalhães</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Fernanda</givenName>          <surName>Pereira</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mário</givenName>          <surName>Carmo</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Catarina</givenName>          <surName>Ferreira</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>João</givenName>          <surName>Santos</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Luís</givenName>          <surName>Rosa</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>António</givenName>          <surName>Ribeiro</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Luís</givenName>          <surName>Queirós</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Mafalda</givenName>          <surName>Moreira</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Nuno</givenName>          <surName>Pinto</surName>
+    </individualName>
+<organizationName>BioInsigth</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Rua Antero de Quental, Nº52 Loja B</deliveryPoint><city>Odivelas</city><postalCode>2675-690 Odivelas</postalCode><country>PORTUGAL</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Tiago</givenName>          <surName>Múrias</surName>
+    </individualName>
+<organizationName>CIBIO-InBIO, Centro de Investigação em Biodiversidade e Recursos Genéticos, Universidade do Porto</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Campus Agrário de Vairão</deliveryPoint><city>Vairão</city><postalCode>4485-661 Vairão</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>tdsantos@cibio.up.pt</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2019-12-21
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset contains records of large mammals (Mammalia) collected in the lower valley of the River Tua and included in the Ecological Monitoring Program (2011-2017) of the Environmental Impact Assessment of the Foz Tua Hydroelectric Dam, promoted by EDP – Energias de Portugal, S.A. Data were collected between August 2011 and July 2017 with a maximum of 56 cameras in sampling points with favorable habitats on the area of the lower Tua river valley directly or indirectly affected by the Foz-Tua dam. The presence of individuals and the species identification was recorded by direct observation of the photos taken with the cameras.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Large mammals; occurrence; observations; camera-trapping</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The data were collected within a 5-km buffer around the Tua lower valley (Northeast Portugal), up to 35 km from the mouth, in the municipalities of Carrazeda de Ansiães, Alijó, Murça, Vila Flor and Mirandela.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-7.581</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-7.169</eastBoundingCoordinate>
+                      <northBoundingCoordinate>41.504</northBoundingCoordinate>
+                      <southBoundingCoordinate>41.183</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2011-08-11
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-07-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The taxonomic coverage of this dataset spans 1 phylum, 1 class, 4 orders, 8 families, 13 genera and 12 species.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Carnivora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cetartiodactyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lagomorpha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rodentia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Canidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Felidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mustelidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Viverridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cervidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Suidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Leporidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sciuridae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>This dataset is part of a broader initiative whereby the company EDP - Energias de Portugal S.A. will made available biodiversity data collected during impact assessment and biological monitoring studies.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>This resource will be regularly checked for accuracy.</para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>João</givenName>          <surName>Madeira</surName>
+    </individualName>
+<organizationName>EDP - Energias de Portugal</organizationName><positionName>Manager</positionName>    <address>
+<deliveryPoint>Av. 24 de Julho, 12, Torre Nascente, Piso 4</deliveryPoint><city>Lisbon</city><postalCode>1249-300 Lisboa</postalCode><country>PORTUGAL</country>    </address>
+<electronicMailAddress>Joao.Madeira@edp.pt</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>To be completed</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The data were collected within a 5-km buffer around the Tua lower valley (Northeast Portugal), up to 35 km from the mouth, in the municipalities of Carrazeda de Ansiães, Alijó, Murça, Vila Flor and Mirandela.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Sampling was designed to cover the main habitat types for large mammals in and around the lower Tua valley affected by the Foz-Tua dam (including the reservoir area). Digital cameras with motion sensor and infrared iluminator were set in each sampling point over a period of 12 consecutive days and nights. The machines were programmed to shoot three pictures with a delay of 1 minute after the activation. All cameras were inspected after each 3-day period of exposition. Species identification and assessment of age and sex (when possible) were made by visual observation of the pictures taken.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>All identifications were performed by qualified technicians</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="EDP Biodiversity Data">
+          <title>EDP Foz Tua Large Mammals (camera -trapping) - Ecological Monitoring Program  [2011-2017]</title>
+          <personnel>
+    <individualName>
+<givenName>Hugo</givenName>          <surName>Costa</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Nuno</givenName>          <surName>Salgueiro</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ana Teresa</givenName>          <surName>Marques</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Helena</givenName>          <surName>Coelho</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Catarina</givenName>          <surName>Ferreira</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>José</givenName>          <surName>Oliveira</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mário</givenName>          <surName>Ferreira</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Pedro</givenName>          <surName>Pereira</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ramalho</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Dárcio</givenName>          <surName>Sousa</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Rui</givenName>          <surName>Silva</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Marco</givenName>          <surName>Caetano</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Tiago</givenName>          <surName>Neves</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Joana</givenName>          <surName>Magalhães</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Fernanda</givenName>          <surName>Pereira</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mário</givenName>          <surName>Carmo</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Catarina</givenName>          <surName>Ferreira</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>João</givenName>          <surName>Santos</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Luís</givenName>          <surName>Rosa</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>António</givenName>          <surName>Rebelo</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Emanuel</givenName>          <surName>Ribeiro</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Luís</givenName>          <surName>Queirós</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Mafalda</givenName>          <surName>Moreira</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Nuno</givenName>          <surName>Pinto</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Tiago</givenName>          <surName>Múrias</surName>
+    </individualName>
+    <role>METADATA_AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>The dataset contains records of large mammals (Mammalia) collected in plots along the lower Tua River, and included in the Ecological Monitoring Program of the Foz Tua Hydroelectric Dam, promoted by EDP – Energias de Portugal, S.A. Data were collected between August 2011 and July 2017, with up to 56 cameras in sampling plots with favorable habitats for large mammals within a 5-km buffer around the River Tua lower valley. The occurrence of the target taxa was documented through 1460 positive records of camera-trapping. In total, 177 were identified only to class, 7 to order, 27 to family and 50 to genus, while 1229 were identified to the species rank. The most abundant species (&gt; 100 records) were Vulpes vulpes (565), Sus scrofa (214) and Genetta genneta (164).</para>
+          </abstract>
+          <funding>
+              <para>The work was funded by EDP - Energias de Portugal, S.A.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The study was conducted in part of the sub-basins of river Tua, during the construction and subsequent flooding of the lower part of this river’s valley by the Foz-Tua Hydroelectric Dam. The sampling was centered in suitable habitats for large mammals in a 5 km radius buffer around the future reservoir banks and up to 35 km from the Tua mouth.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The objective of the study was to monitor changes in the distribution patterns and abundances of species of large mammals in the area of the Foz Tua Hydroelectric Dam, prior to (2011) and during (2011-2016) the dam construction, and in the subsequent flooding  of the river valley (2016-2017). The camera trapping was used to complement the classic transect methods.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:31Z</dateStamp>
+      <citation>Costa H, Salgueiro N, Marques A T, Coelho H, Ferreira C, Ribeiro E, Oliveira J, Pereira P, Silva R, Ferreira M, Ramalho R, Sousa D, Caetano M, Neves T, Magalhães J, Pereira F, Carmo M, Santos J, Rosa L, Ribeiro A, Queirós L, Moreira M, Pinto N, Múrias T (2019). EDP Foz Tua Large Mammals (camera -trapping) - Ecological Monitoring Program  [2011-2017]. EDP - Energias de Portugal. Sampling event dataset https://doi.org/10.15468/klm9xm accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>http://ipt.gbif.pt/ipt/logo.do?r=edp_sabor_herpetology_baseline</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

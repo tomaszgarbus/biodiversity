@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="688862fc-1545-483b-8349-9d7b4f787877"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/30erdy</alternateIdentifier>
+        <alternateIdentifier>688862fc-1545-483b-8349-9d7b4f787877</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr795</alternateIdentifier>
+        <alternateIdentifier>ef36beab-c834-30ac-bb2b-5a066d54c569</alternateIdentifier>
+    <title>Invasive Non-Native Species, Outer Hebrides</title>
+    <creator>
+<organizationName>Outer Hebrides Biological Recording</organizationName>    <address>
+<deliveryPoint>24B Ardivachar</deliveryPoint><city>South Uist</city><administrativeArea>Outer Hebrides</administrativeArea><postalCode>HS8 5RF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@ohbr.org.uk</electronicMailAddress><onlineUrl>http://www.ohbr.org.uk</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Outer Hebrides Biological Recording</organizationName>    <address>
+<deliveryPoint>24B Ardivachar</deliveryPoint><city>South Uist</city><administrativeArea>Outer Hebrides</administrativeArea><postalCode>HS8 5RF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@ohbr.org.uk</electronicMailAddress><onlineUrl>http://www.ohbr.org.uk</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-03-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Records of innvasive non-native species from the Outer Hebrides recorded up to 31 December 2019. Includes records collected directly from individual recorders.
+
+Please refer to OHBR website (www.ohbr.org.uk) or contact admin&amp;#64;ohbr.org.uk
+OHBR maintains a regional database of records of the flora, fungi and fauna of the Outer Hebrides and the surrounding marine areas.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr795</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The vice-county of the Outer Hebrides and the surrounding marine areas (in the wider sense) and reflects observer location and activity. The majority of records are shown at six-figure grid references, but precision may vary considerably</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-7.603</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-6.176</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.504</northBoundingCoordinate>
+                      <southBoundingCoordinate>56.925</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1976-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-11-29
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>To map the distribution of invasive non-native species in the Outer Hebrides and surrounding marine area.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Christine</givenName>          <surName>Johnson</surName>
+    </individualName>
+<electronicMailAddress>admin@ohbr.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Dataset comprises field records submitted by resident and visiting recorders. Recording is mostly casual and all records are validation and are verified in accordance with OHBR policy.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data do not have comprehensive geographic or taxonomic coverage. They have not been specifically reassessed in light of recent taxonomic splits or aggregations, and should be checked against original sources if there is doubt.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:16Z</dateStamp>
+      <citation>Outer Hebrides Biological Recording (2021). Invasive Non-Native Species, Outer Hebrides. Occurrence dataset https://doi.org/10.15468/30erdy accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/OHBR-logo25-small.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6e09f9dc-0bf2-4c20-8ff6-bd898bbc4831"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hxqokw</alternateIdentifier>
+        <alternateIdentifier>6e09f9dc-0bf2-4c20-8ff6-bd898bbc4831</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1787</alternateIdentifier>
+        <alternateIdentifier>19db845a-3dd2-34ed-aa87-cb86bea98e5b</alternateIdentifier>
+    <title>Radnorshire Wildlife Trust records held by BIS</title>
+    <creator>
+<organizationName>BIS for Powys &amp; Brecon Beacons National Park</organizationName>    <address>
+<deliveryPoint>Unit 4</deliveryPoint><city>Brecon</city><administrativeArea>Powys</administrativeArea><postalCode>LD3 7LB</postalCode>    </address>
+<phone>01874 610881</phone><electronicMailAddress>info@bis.org.uk</electronicMailAddress><onlineUrl>http://www.bis.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>BIS for Powys &amp; Brecon Beacons National Park</organizationName>    <address>
+<deliveryPoint>Unit 4</deliveryPoint><city>Brecon</city><administrativeArea>Powys</administrativeArea><postalCode>LD3 7LB</postalCode>    </address>
+<phone>01874 610881</phone><electronicMailAddress>info@bis.org.uk</electronicMailAddress><onlineUrl>http://www.bis.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-05-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Radnorshire Wildlife Trust species records collated and digitised by BIS. Many are for RWT Reserves or Wildlife Sites.
+Contact BIS for further information or go to website www.bis.org.uk for County recorder contacts.</para>
+    </abstract>
+      <additionalInfo>
+          <para>Contact BIS for further information or go to website www.bis.org.uk for County recorder contacts.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1787</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1968-03-15
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-10-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Collated for nature conservation and management.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Jo</givenName>          <surName>Milborrow</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>info@bis.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Mainly from field observations but may include mammal and moth trapping and surveys.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records are validated for geographical area on import to BIS database. BIS makes every effort to exchange with county recorders for verification but due to the historical nature of this dataset some records remain unverified. Data will have been collected by local experts, ecological consultants, ecologists and members of the public.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:18Z</dateStamp>
+      <citation>BIS for Powys &amp; Brecon Beacons National Park (2021). Radnorshire Wildlife Trust records held by BIS. Occurrence dataset https://doi.org/10.15468/hxqokw accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/BISLogo.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

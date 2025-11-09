@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cf5142d2-bde7-4733-b07a-68bf370d52aa"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/fphygc</alternateIdentifier>
+        <alternateIdentifier>cf5142d2-bde7-4733-b07a-68bf370d52aa</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1309</alternateIdentifier>
+        <alternateIdentifier>6874acf5-4a30-338c-a38e-72415aa0bbf9</alternateIdentifier>
+    <title>Glasgow Museums BRC: Mammals</title>
+    <creator>
+<organizationName>Glasgow Museums Biological Records Centre</organizationName>    <address>
+<deliveryPoint>200 Woodhead Road</deliveryPoint><city>Glasgow</city><postalCode>G53 7NN</postalCode>    </address>
+<onlineUrl>https://www.glasgowlife.org.uk/museums/biological-record-centre</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Glasgow Museums Biological Records Centre</organizationName>    <address>
+<deliveryPoint>200 Woodhead Road</deliveryPoint><city>Glasgow</city><postalCode>G53 7NN</postalCode>    </address>
+<onlineUrl>https://www.glasgowlife.org.uk/museums/biological-record-centre</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-02-17
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>All Mammal data held by Glasgow Museums BRC except Badgers and SquirrelsFurther information about records may be available on request</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1309</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Covers mainly W Central Scotland with occasional records from elsewhere in Scotland</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-6.221</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.716</eastBoundingCoordinate>
+                      <northBoundingCoordinate>56.552</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.787</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2008-01-11
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Biological Record Centre database</para>
+      </purpose>
+      <contact>
+<positionName>editor</positionName><electronicMailAddress>biological.records@glasgowlife.org.uk</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:23Z</dateStamp>
+      <citation>Glasgow Museums Biological Records Centre (2021). Glasgow Museums BRC: Mammals. Occurrence dataset https://doi.org/10.15468/fphygc accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/CSGMuseums+Logo_CMYK.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

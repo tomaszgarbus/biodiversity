@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="783641d5-9984-4d2d-b6f3-f42bfaf4a3e7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/3kuoll</alternateIdentifier>
+        <alternateIdentifier>783641d5-9984-4d2d-b6f3-f42bfaf4a3e7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr327</alternateIdentifier>
+        <alternateIdentifier>cff1e622-afa7-346b-9b29-e013ed2efc81</alternateIdentifier>
+    <title>Records of otters from Site Condition Monitoring in Scotland 2011-2012</title>
+    <creator>
+<organizationName>NatureScot</organizationName>    <address>
+<deliveryPoint>Great Glen House, Leachkin Road</deliveryPoint><city>INVERNESS</city><postalCode>IV3 8NW</postalCode>    </address>
+<phone>01463 725000</phone><onlineUrl>https://www.nature.scot/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureScot</organizationName>    <address>
+<deliveryPoint>Great Glen House, Leachkin Road</deliveryPoint><city>INVERNESS</city><postalCode>IV3 8NW</postalCode>    </address>
+<phone>01463 725000</phone><onlineUrl>https://www.nature.scot/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-06-29
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset comprises records of otter collected during 2011 and 2012 by Findlay Ecology Services Ltd under contract to SNH for Site Conditron Monitoring of 44 Special Areas of Conservation (SACs) in Scotland for which otter is a qualifying feature. The dataset includes absence records.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr327</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The SACs are spread geographically throughout Scotland.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-7.41</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.002</eastBoundingCoordinate>
+                      <northBoundingCoordinate>60.456</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.961</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2001-10-26
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-11-23
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The aim of this survey was to replicate the site SCM element of the 2003-04 national survey with the following three objectives:  to undertake essential second cycle Site Condition Monitoring on all 44 Special Areas of Conservation (SACs) in Scotland where otters are identified as a qualifying feature; to provide data on the wider countryside as a broad comparison to SACs and to use the extensive geographical coverage of the combined SAC and wider countryside data to provide an assessment of the overall conservation status of otters throughout Scotland since the first national survey of 1977-79.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Colin</givenName>          <surName>McLeod</surName>
+    </individualName>
+<electronicMailAddress>Colin.McLeod@nature.scot</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>All 44 SACs in Scotland that have otter as a qualifying feature of the site were surveyed. Each SAC was sampled with survey lengths of 600m along riparian habitat. The sampling protocol within each SAC followed Brewer et al. (2002) in that two 600m sites per 10km square were sampled. A total of 291 sites were surveyed in 44 SACs. Where possible, the same 2003-04 sample points were used in the 2011-12 survey, and where possible each SAC was surveyed in the same month as in the 2003-04 survey. Using GIS, an additional 73 sites in 36 10km squares were randomly selected from the available suite of sites surveyed in the previous otter surveys to provide comparative data.
+ 
+ The current standard for otter SCM is to count spraints and other evidence along a 600m stretch of one river bank. Brewer et al. (2002) recommended that a fixed distance of 100m is searched for all signs of otter activity, and that if no spraints are found then a further search of up to 600m should be conducted in order to ascertain a^??presencea^?? over a longer stretch of watercourse. This protocol was followed, with the first 100m section recorded separately and nested within the 600m data to give greater potential for comparison with previous surveys. The presence of mink and water vole was also recorded.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>There is a high degree of confidence - all signs were noted by experienced surveyors. However, in common with previous otter surveys, putative mink scats were not analysed for DNA, so there is potential for some errors with identification. High levels of rainfall and spate conditions in both summers of the survey will have resulted in the likelihood of a^??false negativesa^??.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:22Z</dateStamp>
+      <citation>NatureScot (2020). Records of otters from Site Condition Monitoring in Scotland 2011-2012. Occurrence dataset https://doi.org/10.15468/3kuoll accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataResource/SNH-logo_detail.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

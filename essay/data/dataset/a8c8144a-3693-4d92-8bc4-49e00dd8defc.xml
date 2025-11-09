@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a8c8144a-3693-4d92-8bc4-49e00dd8defc"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/yyd4b9</alternateIdentifier>
+        <alternateIdentifier>a8c8144a-3693-4d92-8bc4-49e00dd8defc</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr766</alternateIdentifier>
+        <alternateIdentifier>99e51e3a-2c83-3629-b936-1c72b74e8818</alternateIdentifier>
+    <title>Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Verified data</title>
+    <creator>
+<organizationName>Scottish Wildlife Trust</organizationName>    <address>
+<deliveryPoint>Harbourside House, 110 Commercial St</deliveryPoint><city>Edinburgh</city><administrativeArea>Midlothian</administrativeArea><postalCode>EH6 6NF</postalCode>    </address>
+<electronicMailAddress>datarequests@scottishwildlifetrust.org.uk</electronicMailAddress><onlineUrl>http://scottishwildlifetrust.org.uk</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Scottish Wildlife Trust</organizationName>    <address>
+<deliveryPoint>Harbourside House, 110 Commercial St</deliveryPoint><city>Edinburgh</city><administrativeArea>Midlothian</administrativeArea><postalCode>EH6 6NF</postalCode>    </address>
+<electronicMailAddress>datarequests@scottishwildlifetrust.org.uk</electronicMailAddress><onlineUrl>http://scottishwildlifetrust.org.uk</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-01-13
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset comprises species recorded on Scottish Wildlife Trust reserves through surveys or monitoring undertaken by reserve convenors or Trust volunteers. Records in this dataset have undergone a level of verification, either using the rules provided by national recording schemes and societies available via the NBN Record Cleaner, or other experts, such as Vice County Recorders.
+These data are provided &amp;#34;as is&amp;#34; and Scottish Wildlife Trust do not have the resources to interpret these data.  The Trust would recommend using a Local Record Centre for interpretation purposes and to gain a clear picture of all datasets available, many of which will not yet be on the NBN Atlas.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr766</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The records will be restricted to Scottish Wildlife Trust reserves as this reflects the  nature of the recording/monitoring undertaken by reserve convenors and Trust volunteers.  There may be biases in the data towards reserves with more resources or higher levels of public use.  Some of the records will be collected with 6-10 figure grid references, whilst others may have been recorded at the reserve level only - where this was the case, a central grid reference for the reserve was used.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-6.188</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.239</eastBoundingCoordinate>
+                      <northBoundingCoordinate>57.67</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.869</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1932-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-09-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Monitoring records were originally collected to aid reserve management and so will be reserve focused and focus on species or habitats of interest locally. Other records are likely to reflect the interests of a given reserve convenor or volunteer.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Siller</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>rsiller@scottishwildlifetrust.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>As this is a collated dataset of records from multiple reserve convenors and Scottish Wildlife Trust volunteers, data collection methods will vary.  Records may reflect regular species or habitat monitoring or be more adhoc, comprising sightings made during a site visit. Data collection methods for targeted survey may be listed in the survey level metadata. Records in this dataset have undergone a level of verification,  by either the NBN Record Cleaner or other experts.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The records included in this dataset are a result of survey or monitoring by known reserve convenors or Scottish Wildlife Trust volunteer and are thought to be of a reasonable standard. These data have been verified using the NBN Record Cleaner or other experts, such as Vice County Recorders.  Much of these data have been digitised from paper records with a validation procedure in place and so should reflect the original records.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:18Z</dateStamp>
+      <citation>Scottish Wildlife Trust (2020). Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Verified data. Occurrence dataset https://doi.org/10.15468/yyd4b9 accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/SWT_logo.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

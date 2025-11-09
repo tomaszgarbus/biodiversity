@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="43e642eb-2485-4e5b-9f19-ddba5fabf9ab"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dommhp</alternateIdentifier>
+        <alternateIdentifier>43e642eb-2485-4e5b-9f19-ddba5fabf9ab</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1332</alternateIdentifier>
+        <alternateIdentifier>fb89e050-fe3c-3220-8155-f8f2058c7c19</alternateIdentifier>
+    <title>Leicestershire and Rutland Invasive Non-Native Species</title>
+    <creator>
+<organizationName>Leicestershire and Rutland Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>County Hall</deliveryPoint><city>Glenfield</city><postalCode>LE3 8RA</postalCode>    </address>
+<phone>0116 3054108</phone><electronicMailAddress>LRERC@leics.gov.uk</electronicMailAddress><onlineUrl>https://www.leicestershire.gov.uk/environment-and-planning/planning/planning-and-ecology</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Leicestershire and Rutland Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>County Hall</deliveryPoint><city>Glenfield</city><postalCode>LE3 8RA</postalCode>    </address>
+<phone>0116 3054108</phone><electronicMailAddress>LRERC@leics.gov.uk</electronicMailAddress><onlineUrl>https://www.leicestershire.gov.uk/environment-and-planning/planning/planning-and-ecology</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains all electronic records of Invasive Non-Native Species held by LRERC. It uses the INNS Species List provided by Natural England. It is collated from a number of sources. Last amended 01/03/2016</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1332</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>VC55 (Leicestershire and Rutland). Mainly at 100m resolution although only publically available at tetrad level.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.485</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.447</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.911</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.458</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1933-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-01-27
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Various, mainly casual records from ecological surveys.  Collated to bring together INNS records in VC55.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Kirsty Gamble</surName>
+    </individualName>
+<electronicMailAddress>planningecology@leics.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>All records are considerd to be at least &apos;Perfectly valid, no argument, species may not be of substantial importance tp warrant extensive validation processes&apos;. The data is from LRERCs main database which is collated from a number of sources. LRERC holds additional attribute data on the records.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>This is not a comprehensive dataset.
+ 
+ Data may not have been validated by the county recorder, but is considered valid using LRERCs validation policy.
+ 
+ Grid References have been checked using the NBN Record Cleaner to ensure that all records are within the county boundaries.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:21Z</dateStamp>
+      <citation>Leicestershire and Rutland Environmental Records Centre (2017). Leicestershire and Rutland Invasive Non-Native Species. Occurrence dataset https://doi.org/10.15468/dommhp accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Leics+and+rutland+compressed+logo.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

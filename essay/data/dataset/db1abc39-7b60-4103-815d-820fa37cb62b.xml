@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="db1abc39-7b60-4103-815d-820fa37cb62b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/awfvnp</alternateIdentifier>
+        <alternateIdentifier>db1abc39-7b60-4103-815d-820fa37cb62b</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr815</alternateIdentifier>
+        <alternateIdentifier>b1d8590f-8ba5-3861-bf06-3f5ffd96f887</alternateIdentifier>
+    <title>Environment Agency Rare and Protected Species Records</title>
+    <creator>
+<organizationName>Environment Agency</organizationName><phone>03708 506 506</phone><electronicMailAddress>enquiries@environment-agency.gov.uk</electronicMailAddress><onlineUrl>https://www.gov.uk/government/organisations/environment-agency</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Environment Agency</organizationName><phone>03708 506 506</phone><electronicMailAddress>enquiries@environment-agency.gov.uk</electronicMailAddress><onlineUrl>https://www.gov.uk/government/organisations/environment-agency</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-12-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Protected species and invasive species records collected through Environment Agency survey, including from; BIOSYS database - invertebrate, plant and algal monitoring from marine and freshwater, the National Fish Population Database - fish monitoring, and ad-hoc records from surveys at local offices. Currently not including records for fresh water pearl mussel. Please help us to improve our species records by reporting any errors you find within this dataset to marina.flamank&amp;#64;environment-agency.gov.uk
+The invasive records are a subset of those we collect, ones wit greatest impact to our work. In future we hope to include all invasive species records we collect.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr815</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The records cover England. There is a bias towards rivers as this is where the Environment Agency carries out routine monitoring. Wetland sites are also targeted to give cover to areas where we are most likely to have an impact.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-5.711</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.763</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.788</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.989</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1972-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2008-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Species records are capruted by the Environment Agency for many purposes; from monitoring water quality and fish populations, to investigating opportunities for creating biodiverse habitat.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Marina</givenName>          <surName>Flamank</surName>
+    </individualName>
+<electronicMailAddress>marina.flamank@environment-agency.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Records are collected by a variety of methods; these include targeted survey for particular species, standardised sampling methods for many species, sightings made during field work. There are many records collected in partnership - in general our partners incorporate jointly owned records into their datasets and load them to NBN Atlas.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Our confidence is High. Each record has been provided either as part of a survey where the surveyor was professional, trained or validated by Biodiversity staff.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:24Z</dateStamp>
+      <citation>Environment Agency (2020). Environment Agency Rare and Protected Species Records. Occurrence dataset https://doi.org/10.15468/awfvnp accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

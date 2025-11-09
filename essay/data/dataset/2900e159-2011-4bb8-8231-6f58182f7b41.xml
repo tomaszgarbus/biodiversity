@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2900e159-2011-4bb8-8231-6f58182f7b41"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rpymvd</alternateIdentifier>
+        <alternateIdentifier>2900e159-2011-4bb8-8231-6f58182f7b41</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr313</alternateIdentifier>
+        <alternateIdentifier>5deb2545-c986-3fbb-8fe5-e99b92381187</alternateIdentifier>
+    <title>Expansion zone survey of pine marten (Martes martes) distribution in Scotland, 2012-2013</title>
+    <creator>
+<organizationName>NatureScot</organizationName>    <address>
+<deliveryPoint>Great Glen House, Leachkin Road</deliveryPoint><city>INVERNESS</city><postalCode>IV3 8NW</postalCode>    </address>
+<phone>01463 725000</phone><onlineUrl>https://www.nature.scot/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureScot</organizationName>    <address>
+<deliveryPoint>Great Glen House, Leachkin Road</deliveryPoint><city>INVERNESS</city><postalCode>IV3 8NW</postalCode>    </address>
+<phone>01463 725000</phone><onlineUrl>https://www.nature.scot/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-06-29
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset comprises records of pine marten, other mustelids, and fox, derived from DNA analysis of scats (faeces), supplemented by recent records of pine marten received from other sources. The findings confirm that pine marten continues to recolonise its former range, including at four widely-spaced locations in southern Scotland, and now occurs close to some of Scotland&amp;#39;s major urban areas. The data was collected as part of a survey by Scottish Natural Heritage and The Vincent Wildlife Trust.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr313</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The records in this dataset relate to Scotland; survey concentrated upon an &quot;Expansion Zone&quot; beyond the pine marten&apos;s known range revealed by surveys in the 1980s (Velander 1983) and 1990s (Balharry et al. 1996). The Expansion Zone targeted for survey in 2012 lay predominantly to the south and east of the pine martena^??s mainly Highland range identified in the 1990s by Balharry et al. (1996), and covered parts of eastern Caithness, Moray, Aberdeenshire, Angus, mid and southern Argyll, Perthshire, Stirlingshire and the Trossachs, Fife, and Dumfries and Galloway. In 2013, the survey encompassed areas of southern Scotland that had not previously been surveyed; this comprised areas south of the Central Belt to the Scotland/England border, excluding those parts of Dumfries and Galloway that were included in the 2012 survey.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-6.249</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.918</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.658</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.787</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1970-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Colin</givenName>          <surName>McLeod</surName>
+    </individualName>
+<electronicMailAddress>Colin.McLeod@nature.scot</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The main survey method involved experienced teams searching for pine marten scats (faeces) along 1 km transects during May-August 2012 and May-July 2013; molecular techniques were used to extract DNA from scats to confirm their species of origin. Collation of recent records of pine martens within the Expansion Zone from other sources significantly reduced the area covered by the field survey.
+ Recent records received from other sources are included in the dataset except in the case of those records used in the survey that have been uploaded to the NBN Gateway by other recording schemes or Local Records Centres, to avoid duplication.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Only records with a very high/high degree of confidence are included in the dataset. This approach means that it is likely that some positive records have been excluded from the dataset.
+ Species identification was confirmed via DNA from scats collected during field survey. Scats from which identifiable DNA could not be extracted are excluded from the dataset.
+ Recent pine marten records provided by a variety of recording organisations, land managers, researchers and naturalists are included in the dataset only if confirmed or probable. Records classed as unconfirmed/possible are excluded from the dataset.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:16Z</dateStamp>
+      <citation>NatureScot (2020). Expansion zone survey of pine marten (Martes martes) distribution in Scotland, 2012-2013. Occurrence dataset https://doi.org/10.15468/rpymvd accessed via GBIF.org on 2022-02-16.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataResource/SNH-logo_detail.jpg</resourceLogoUrl>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

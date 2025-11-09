@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="35752720-9dc9-40ce-aea5-63915e8aeb0e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jvez2i</alternateIdentifier>
+        <alternateIdentifier>35752720-9dc9-40ce-aea5-63915e8aeb0e</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1302</alternateIdentifier>
+        <alternateIdentifier>fc0909e2-a874-3b13-9f7d-f7162ed94657</alternateIdentifier>
+    <title>Derbyshire Invasive Non-Native Species (INNS) 1900 - 2014</title>
+    <creator>
+<organizationName>Derbyshire Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Main Street</deliveryPoint><city>Derbyshire</city><postalCode>DE4 4LR </postalCode>    </address>
+<phone>01773 881188</phone><electronicMailAddress>enquiries@derbyshirewt.co.uk</electronicMailAddress><onlineUrl>http://www.derbyshirewildlifetrust.org.uk/what-we-do/derbyshire-biological-records-centre</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Derbyshire Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Main Street</deliveryPoint><city>Derbyshire</city><postalCode>DE4 4LR </postalCode>    </address>
+<phone>01773 881188</phone><electronicMailAddress>enquiries@derbyshirewt.co.uk</electronicMailAddress><onlineUrl>http://www.derbyshirewildlifetrust.org.uk/what-we-do/derbyshire-biological-records-centre</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset comprises all of the records held by Derbyshire Wildlife Trust, the former Derby Biological Records Centre and the County Flora Recorder and covers  the period 1900 a^?? 2014.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1302</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The dataset relates predominantly to the county of Derbyshire, but also to the Peak District National Park which extends beyond Derbyshire. The majority of data was collected with an accuracy of 1km as part of broad flora surveying. Other survey data held on GIS is at a much higher resolution, and has focussed on the upper reaches of main watercourses. Plant records from Derbyshire Wildlife Trust have been entered using site centroids as the primary grid reference. For larger sites the exact location of the plant may be some distance from this centroid GR. With some sites spanning more than 1 tetrad, and more rarely 1 hectad, a limited number of records will invariably have been assigned to an incorrect tetrad or hectad.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.077</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.73</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.542</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.641</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1867-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The records have been captured during site surveys for conservation purposes in relation to potential development work or improving knowledge and understanding of plant and animal distribution and population trends in Derbyshire.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Kieron</givenName>          <surName>Huston</surName>
+    </individualName>
+<electronicMailAddress>khuston@derbyshirewt.co.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The dataset has been validated and maintained by Derbyshire Wildlife Trust in partnership with the County Flora Recorder. The records have been generated by volunteers and professionals. Records forming this amalgamated dataset have arisen from a variety of sources. The majority come from botanical survey for a new Flora of Derbyshire, site monitoring by Derbyshire County Councila^??s Countryside Service, the Peak District National Park and Derbyshire Wildlife Trust. Some historical data has been collated from published Floras. Survey methods are typically walkover surveys of grid squares and/or sites, but some records are a result of detailed Phase II habitat surveys. Records for fauna have been gathered during standardised otter river surveys and from casual records. The data included in the dataset has been collated by DWT during 2014 and early 2015.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>There is a high level of confidence about the accuracy of the records within this dataset. The dataset has a comprehensive geographic coverage and plant records have been checked by the County Flora Recorder and animal records by DWT. Many records are accurate only to 1km square, having been collected for county Flora surveys.  Other data has been extracted from GIS sources with considerable accuracy, having been collected for the purposes of mapping and controlling the spread of invasive species. The dataset has been checked by the NBN Cleaner.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:30Z</dateStamp>
+      <citation>Derbyshire Biological Records Centre (2017). Derbyshire Invasive Non-Native Species (INNS) 1900 - 2014. Occurrence dataset https://doi.org/10.15468/jvez2i accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c3a08655-9951-4d4e-b57e-27d494a643d6"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hskrkp</alternateIdentifier>
+        <alternateIdentifier>http://tun.fi/HR.2931</alternateIdentifier>
+        <alternateIdentifier>c3a08655-9951-4d4e-b57e-27d494a643d6</alternateIdentifier>
+    <title>Long term data from the Hanko Bird Observatory (Halias data)</title>
+      <pubDate>
+      2022-02-15
+      </pubDate>
+    <language>FINNISH</language>
+    <abstract>
+        <para>Daily counts of the Hanko Bird Observatory  include following data types since year 1979: (i) counts of local staging birds, (ii) counts of visual diurnal migration, (iii) standardized visual migration counts, (iv) additional observations outside the core observation area, and (v) counts of night migration.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Hanko, Tulliniemi</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>22.56</westBoundingCoordinate>
+                      <eastBoundingCoordinate>23.421</eastBoundingCoordinate>
+                      <northBoundingCoordinate>59.914</northBoundingCoordinate>
+                      <southBoundingCoordinate>59.439</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1960-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2029-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Aleksi</givenName>          <surName>Lehikoinen</surName>
+    </individualName>
+<electronicMailAddress>halias@tringa.fi</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+          <surName>FinBIF</surName>
+    </individualName>
+<electronicMailAddress>helpdesk@laji.fi</electronicMailAddress>      </contact>
+      <methods>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para></para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Counts of migrating and staging birds. Methods described in Vähätalo, A. V., Rainio, K., Lehikoinen, A. &amp; Lehikoinen, E. 2004: Spring arrival of birds depends on the North Atlantic Oscillation. — Journal of Avian Biology 35: 210–216.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:18Z</dateStamp>
+      <citation>Finnish Biodiversity Information Facility (2022). Long term data from the Hanko Bird Observatory (Halias data). Occurrence dataset https://doi.org/10.15468/hskrkp accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

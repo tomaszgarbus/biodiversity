@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4d1bd299-2435-47e2-8fe1-ac949394a40d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/fafx49</alternateIdentifier>
+        <alternateIdentifier>4d1bd299-2435-47e2-8fe1-ac949394a40d</alternateIdentifier>
+        <alternateIdentifier>https://danbif.au.dk/ipt/resource?r=invasive-alien-species-in-denmark</alternateIdentifier>
+    <title>Invasive Alien Species in Denmark</title>
+    <creator>
+    <individualName>
+          <surName>The Danish Environmental Protection Agency</surName>
+    </individualName>
+<positionName>Administrative point of contact</positionName>    <address>
+<deliveryPoint>Tolderlundsvej 5</deliveryPoint><city>Odense C</city><postalCode>DK-5000</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>invasivearter@mst.dk</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Julian</givenName>          <surName>Henriksen</surName>
+    </individualName>
+<organizationName>The Danish Environmental Protection Agency</organizationName>    <address>
+<deliveryPoint>Tolderlundsvej 5</deliveryPoint><city>Odense C</city><postalCode>5000</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>judhe@mst.dk</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>The Danish Environmental Protection Agency</surName>
+    </individualName>
+<positionName>Administrative point of contact</positionName>    <address>
+<deliveryPoint>Tolderlundsvej 5</deliveryPoint><city>Odense C</city><postalCode>DK-5000</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>invasivearter@mst.dk</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Isabel</givenName>          <surName>Calabuig</surName>
+    </individualName>
+<organizationName>DanBIF - Danish Biodiversity Information Facility</organizationName><positionName>Node manager, Data curator</positionName>    <address>
+<city>Copenhagen</city><country>DENMARK</country>    </address>
+<electronicMailAddress>icalabuig@snm.ku.dk</electronicMailAddress><onlineUrl>http://snm.ku.dk/english/staffsnm/staff/?pure=en/persons/88409</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-5515-7900</userId>
+    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2021-04-14
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Database containing observations of invasive alien species in Denmark. This dataset is an extract of species observations from the nationwide portal &amp;#34;invasive-arter.dk&amp;#34;. Data are mainly collected by amateur nature enthusiasts. Data only consist of validated data. Validation is based on photos and videos, which have been made inaccessible during the transfer of data to arter.dk.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Denmark, DK</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>7.18</westBoundingCoordinate>
+                      <eastBoundingCoordinate>15.94</eastBoundingCoordinate>
+                      <northBoundingCoordinate>57.98</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.45</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>The Danish Environmental Protection Agency</surName>
+    </individualName>
+<positionName>Administrative point of contact</positionName>    <address>
+<deliveryPoint>Tolderlundsvej 5</deliveryPoint><city>Odense C</city><postalCode>DK-5000</postalCode><country>DENMARK</country>    </address>
+<electronicMailAddress>invasivearter@mst.dk</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-16T11:25:21Z</dateStamp>
+      <citation>The Danish Environmental Protection Agency, Henriksen J (2021). Invasive Alien Species in Denmark. Version 1.2. Miljøstyrelsen / The Danish Environmental Protection Agency. Occurrence dataset https://doi.org/10.15468/fafx49 accessed via GBIF.org on 2022-02-16.</citation>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

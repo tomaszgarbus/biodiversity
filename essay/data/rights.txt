@@ -1,0 +1,345 @@
+
+Dataset: Borders Backyard Biodiversity
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herpetofauna and other animals registered within Rzhyshchiv city amalgamated territorieal community (CATC) (Kyiv region) in 2021
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museu Darder de Banyoles
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données Biodiversité Raffinerie de Donges
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données opportunistes faune
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Regroupement de données d'espèces exotiques
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Line transect censuses of breeding birds
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Ranger Ad-hoc records and sightings
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données naturalistes de Jean-Valentin DOURTHE
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INSDC Sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fife Nature Records Centre combined dataset 2018/19
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données naturalistes de Damien Combrisson
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: David Dodds Associates Ltd - Species Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données naturalistes de David JIMENEZ
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank (unverified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données opportunistes
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Expansion zone survey of pine marten (Martes martes) distribution in Scotland, 2012-2013
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Species within North Ayrshire from 1984 - Present
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données naturalistes de Laurent CORNILLE
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Field Study Group of the Dutch Mammal Society (NL) - 2004 - Mammal Survey Rakitovec, Slovenia
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lund Museum of Zoology (MZLU)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données naturalistes de DE LACOSTE Nathalie
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données opportunistes
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données naturalistes de SWIFT Olivier
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: British mammal skins in the collections of World Museum Liverpool
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: RSPB Lochwinnoch incidental species records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iRecord Surveys
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invasive Non-Native Species, Outer Hebrides
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données naturalistes de BRULARD Jean-François
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Tissue
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ben Eighe NNR invertebrate records compiled from SNH files
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: East Ayrshire Species Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Community Foundation for Ireland Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Merseyside BioBank Active Naturalists (verified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données Faune du Parc national des Pyrénées
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: TWIC Biodiversity Field Trip Data (1995-present)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Waterbird counts, Luomus dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventaires faune
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Saison 2013/2014 de piégeage en Gironde
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NRW Regional Data: South East Wales Non-sensitive species
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données mammifères Midi-Pyrénées enregistrées dans BazNat - Lot 2
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The BCT/MTUK Bats & Roadside Mammals Survey
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RNF - Données de l'association Vivarmor Nature
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Observations naturalistes de mammifères en Nord-Isère. Lo Parvi
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Northern Ireland Environment Agency (NIEA) Collated Species Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist records from Northern Ireland
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données ONF faune-flore-fonge
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données d'occurrence Espèces issues de la base Natura 2000 : espèces d'intérêt communautaire et autres espèces remarquables renseignées dans les FSD
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: GEO-Hauptveranstaltung in "Wildtierland"
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Cord
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données naturalistes de Julien BIRARD
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Inventaire de la faune réalisé par Jérôme Fouert
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SEAPOP - Last observation per locality in winter season
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field Study Group of the Dutch Mammal Society (NL) - 2007 - Mammal Survey Estonia
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données des réserves naturelles nationales gérées par la Ligue pour la protection des oiseaux (LPO)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Observations.be - Non-native species occurrences in Wallonia, Belgium
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Survey and monitoring records for Scottish Wildlife Trust reserves from reserve convenors and Trust volunteers - Verified data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Long term data from the Hanko Bird Observatory (Halias data)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: VieKas LIFE project invasive species observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NHMO Mammal collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Radnorshire Wildlife Trust records held by BIS
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données acquises dans le cadre de l'activité du bureau d'étude BIOTOPE (1994 - 2013)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Roadkill
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RNF - Données de la Fédération des Réserves Catalanes
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mammals of Ukrainian Polissia region
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Swedish Bird Survey: Fixed routes (Standardrutterna)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Data from Defra Family Organisations supplied to Staffordshire Ecological Record
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Faunal Inventory of Morysin Nature Reserve
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Biodiversity4all Research-Grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: City of Edinburgh Natural Heritage Service - Harperrig Otter Survey
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Animals of Polissya Nature Reserve
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Leicestershire Mammal Records to end of 2009
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mammal records for Europe via the iMammalia app
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records 2015-2019
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DIBA-Parc Natural del Montseny
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NHMD Mammalogy Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fife Nature Records Centre combined dataset
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Observations occasionnelles Parc national des Pyrénées
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Sheffield and Rotherham Wildlife Trust - Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données d'occurrences Espèces issues de l'inventaire des ZNIEFF
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: All taxa records for Leicestershire and Rutland
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Species recordings from the Danish National portal Arter.dk
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ireland's BioBlitz
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Argyll Biological Records Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammalia (Luomus)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammals on map of Ukraine. Materials of the First Ukrainian Mammal Mapping Conference
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: AquaInvaders
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Shire Group IDB species data 2004 to present
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Commissioned surveys and staff surveys and reports for Scottish Wildlife Trust reserves - Verified data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records 2010-2014
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: River Biologists' Database (EPA)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Staffordshire Wildlife Trust Nature Reserves Inventory
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The Danish Environmental Portal, species and habitats-database "Danmarks Miljøportals Naturdatabase"
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Swedish Bird Survey: Swedish coastal bird monitoring programme (Nationella kustfågelövervakningen)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Regroupement de données mammifères (hors chiroptères) récoltées sur la période de 2002-2014 par Cistude Nature
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Monitoring scheme of birds and mammals that are visiting bird feeders during winter
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Montgomeryshire Wildlife Trust records held by BIS
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Scottish Beaver Trial incidental species records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Saisons 2007 à 2013 de piégeage en Gironde
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Trust for Scotland Species Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Löydös Open Invasive Species Observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Löydös Open Finnish Observation Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CEDaR Online Recording
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invasive Alien Species in Denmark
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Living with Mammals survey
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Leicestershire and Rutland Invasive Non-Native Species
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Trust Species Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NRW Regional Data: North Wales
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural Resources Wales Regional Data : Mid-Wales
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bringing Reedbeds to Life Water Vole and Mink Survey of five key reedbed sites in England in 2009, 2010
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: England Non Native Species records 1965 to 2017
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estonian Naturalists’ Society
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Liste des espèces de la faune sauvage de la base de données naturalistes Faune-France 2017.
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Leicestershire and Rutland Environmental Records Centre records 2000-2009
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mammal records for Dumfries and Galloway
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BioFokus
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norwegian Biodiversity Information Centre - Other datasets
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Winter Bird Census
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estonian Nature Observations Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données Mammifères Midi-Pyrénées enregistrées dans BazNat - Lot 1
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: North Merseyside Local Species Data (DEFRA Grant 23169)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Records of otters from Site Condition Monitoring in Scotland 2011-2012
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BRERC Notable Species records within the last 10 years
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Liste des espèces de la faune sauvage de la base de données naturalistes Faune-France 2018.
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UK Roadkill Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Saison 2013/2014 de piégeage en Pyrénées-Atlantiques
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank (verified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Miscellaneous records held by BIS
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données d'espèces exotiques piégées
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LERN Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Glasgow Museums BRC: Mammals
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LERN Invasive Non-native Species Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Invasive Species Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Waarnemingen.be - Non-native animal occurrences in Flanders and the Brussels Capital Region, Belgium
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INNS Data: All Taxa (West Wales)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mammal Mapper App Sighting Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cumbria Non Native Invasive Species
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Shropshire Ecological Data Network database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Materials to the mammal atlas of Ukraine
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lajitietokeskus/FinBIF - Notebook, general observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: National Water Vole Database & Mapping Project (Scotland data), 2008
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Distribution of American mink in Karelia
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Banco de Datos de la Biodiversidad de la Comunitat Valenciana
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Invasive Species and Pests
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SER Species-based Surveys
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Invasive Non-Native Species
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Environment Agency Rare and Protected Species Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Data collected on citizen science web portal www.ornitho.cat
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Hatikka.fi observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Atlas of Danish Mammals
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INNS Data: All Taxa (South East Wales)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HBRG Vertebrates (not Badger) Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INNS records held by BIS in Powys and Brecon Beacons National Park
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Atlas of Mammals in Ireland 2010-2015
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Records of Invasive Non Native Species held on the Cofnod database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Suffolk Biodiversity Information Service (SBIS) Dataset
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ministerio de Medio Ambiente, y Medio Rural y Marino. Dirección General de Medio Natural y Política Forestal. Inventario Nacional de Biodiversidad 2007, Mamíferos
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Derbyshire Invasive Non-Native Species (INNS) 1900 - 2014
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NBIS Records to December 2016
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Mammal Atlas Project, online recording
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: EDP Foz Tua Large Mammals (camera -trapping) - Ecological Monitoring Program  [2011-2017]
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DOF - Observations from the Danish Ornithological Society
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: North East Scotland Terrestrial Mammals 1900-2017 (excluding squirrels, wild cats and marine mammals)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Norwegian Species Observation Service
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Artportalen (Swedish Species Observation System)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
